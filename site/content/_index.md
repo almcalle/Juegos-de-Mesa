@@ -1,7 +1,7 @@
 ---
 title: Juegos de mesa para todos
 subtitle: Encuentra los mejores juegos de mesa para cada ocasión
-image: /img/home-jumbotron.jpg
+image: img/gamescover.png
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
