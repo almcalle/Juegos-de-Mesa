@@ -37,13 +37,7 @@ export default class ValuesPreview extends React.Component {
       <div className="bg-off-white pv4">
         <div className="mw7 center ph3 pt4">
           {values.map(({text, heading, imageUrl}, i) =>
-            (
-              <div>
-                <p>FWFWFW</p>
             <MediaBlock key={i} text={text} heading={heading} imageUrl={imageUrl} reverse={i % 2 === 0} />
-            </div>
-
-            )
           )}
         </div>
       </div>
