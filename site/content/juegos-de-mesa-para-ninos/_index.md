@@ -9,10 +9,12 @@ description: >-
   trabajo en equipo y la interacción entre miembros de la familia.
 
 games:
-  - heading: Juego 1
-    text: Text 1
+  - heading: A Game of Cat and Mouth
+    text: A Game of Cat and Mouth en un juego para dos jugadores
     imageUrl: img/android-chrome-192x192.png
+    link: https://amzn.to/3eupKVw
   - heading: Juego 2
     text: Texto 2
     imageUrl: img/android-chrome-512x512.png
+    link: https://amzn.to/3eupKVw
 ---
