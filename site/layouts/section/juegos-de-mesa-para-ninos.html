@@ -3,8 +3,8 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 <div class="mw7 center ph3 pt4">
-    {{ partial "short-text" .Params.description}}
 
+    <p class="w-60-l mb0">{{.Params.description}}</p>
 
     {{ range $index, $element := .Params.games }}
     {{ if modBool $index 2 }}
