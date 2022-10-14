@@ -93,7 +93,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Description, name: description, widget: string}
           - label: Juegos
-            name: Juegos
+            name: games
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
