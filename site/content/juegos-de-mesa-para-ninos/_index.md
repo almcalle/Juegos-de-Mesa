@@ -1,7 +1,7 @@
 ---
 title: Juegos de mesa para niños
 subtitle: Juegos de mesa para niños
-image: img/about-direct-sourcing.jpg
+image: img/gamescover.png
 description: >-
   Un buen juego de mesa puede ser una forma divertida de reunir a la familia y
   animar a los niños a descansar de las pantallas del teléfono, la televisión y
