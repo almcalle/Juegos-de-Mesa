@@ -1,6 +1,6 @@
 ---
-title: Juegos para niños
-subtitle: Juegos para niños
+title: Juegos de mesa para niños
+subtitle: Juegos de mesa para niños
 image: img/about-direct-sourcing.jpg
 description: Description
 games:

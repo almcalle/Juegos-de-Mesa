@@ -82,11 +82,11 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
-      - file: "site/content/juegos-para-ninos/_index.md"
-        label: "Juegos para niños"
-        name: "juegos-para-ninos"
+      - file: "site/content/juegos-de-mesa-para-ninos/_index.md"
+        label: "Juegos de mesa para niños"
+        name: "juegos-de-mesa-para-ninos"
         create: true # Allow users to create new documents in this collection
-        folder: "site/juegos-para-ninos" # The path to the folder where the documents are stored
+        folder: "site/juegos-de-mesa-para-ninos" # The path to the folder where the documents are stored
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
