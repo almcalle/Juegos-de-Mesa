@@ -2,6 +2,11 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+
+    <p class="w-60-l mb0">{{.subtitle}}</p>
+{{ partial "short-text" .Params.subtitle}}
+
+
 {{ partial "short-text" .Params.blurb}}
 
 <p>GRGRGRGRGRGRGR</p>
