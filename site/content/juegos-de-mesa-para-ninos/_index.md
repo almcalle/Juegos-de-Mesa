@@ -47,4 +47,17 @@ games:
     duration: 15 minutos
     players: 2-4
     ages: A partir de 4 años
+  - heading: Cascadia
+    text: One of this year’s Spiel Des Jahres winners (the gaming world’s top award)
+      is this Pacific Northwest wildlife-themed tile-laying game. “It’s an
+      easygoing game with more depth than expected,” said Barnes and its
+      “appealing setting makes it easy for all ages to engage.” Players take
+      turns populating their terrain with various wildlife and score points by
+      creating harmonious ecosystems. The award-winning game has earned a
+      4.9-star average rating from 366 ratings
+    imageUrl: img/BoardGamesIcon.png
+    link: https://www.amazon.es/dp/B093H8RGXX/ref=cm_sw_r_as_gl_apa_gl_i_YW84ME5FZRRQFHA0RPT6?linkCode=ml2&tag=alfmcalle-21
+    ages: A partir de 10 años
+    players: 1-4
+    duration: "30-40 minutos "
 ---
