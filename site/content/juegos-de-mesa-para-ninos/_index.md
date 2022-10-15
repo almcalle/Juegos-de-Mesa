@@ -60,4 +60,20 @@ games:
     ages: A partir de 10 años
     players: 1-4
     duration: "30-40 minutos "
+  - link: https://amzn.to/3MBLhbi
+    imageUrl: img/BoardGamesIcon.png
+    heading: Disney Villainous
+    text: >-
+      Last year, Barnes called this title “the best Disney board game published
+      to date, offering players a chance to enact diabolic schemes straight from
+      the classic films.” Disney Villainous, which has earned a 4.7-star average
+      rating from over 5,800 reviews on Amazon, poses the question, ''What if
+      popular Disney villains actually triumphed?” Each player controls one of
+      six villains, with multiple expansions adding additional characters.
+
+
+      “This is a great choice for older kids and teens, but younger players will enjoy this with some help from older friends, siblings or parents,” Barnes said.
+    players: 2-6
+    ages: A partir de 10 años
+    duration: "50 minutos "
 ---
