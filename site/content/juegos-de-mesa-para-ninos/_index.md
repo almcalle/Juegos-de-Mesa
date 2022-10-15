@@ -21,11 +21,15 @@ games:
     ages: A partir de 7 años
     players: "2"
     duration: 10 minutos
-  - heading: Juego 2
-    text: Texto 2
+  - heading: "¿Alcachofas? ¡No, gracias!? "
+    text: A 2021 American Tabletop Awards (ATTA) winner, this colorfully illustrated
+      card game imagines a world where people suddenly hate artichokes — and
+      your garden (aka, your hand of cards) is full of them. Your objective is
+      to swap out your exclusively artichoke-filled deck and harvest fresh
+      vegetables instead
     imageUrl: img/android-chrome-512x512.png
-    link: https://amzn.to/3eupKVw
-    ages: "1"
-    players: "1"
-    duration: "1"
+    link: https://amzn.to/3rZ5iPW
+    ages: A partir de 10 años
+    players: 2-4
+    duration: "20 minutos "
 ---
