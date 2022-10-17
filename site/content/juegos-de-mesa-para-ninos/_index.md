@@ -80,4 +80,15 @@ games:
     duration: 20 minutos
     ages: A partir de 8
     imageUrl: img/llama.jpg
+  - heading: Draftosaurus
+    text: Este juego de mesa para niños transforma a los jugadores en propietarios
+      de parques temáticos al estilo de Parque Jurásico de forma sencilla y
+      donde al final del juego, has construido un pequeño y bonito (y único)
+      parque de dinosaurios, como un Parque Jurásico más colorido (y a pequeña
+      escala).
+    imageUrl: img/draftosaurus.jpg
+    link: https://amzn.to/3TmSs9u
+    ages: A partir de 8 años
+    players: 2-5
+    duration: 15 minutos
 ---
