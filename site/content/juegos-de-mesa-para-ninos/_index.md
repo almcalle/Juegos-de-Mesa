@@ -10,23 +10,23 @@ description: Un buen juego de mesa puede ser una forma divertida de reunir a la
 games:
   - heading: A Game of Cat and Mouth
     text: A Game of Cat and Mouth en un juego para dos jugadores que es "como jugar
-      al ping-pong", pero en una mesa normal. Los jugadores deben utilizar una
+      al ping pong", pero en una mesa normal. Los jugadores deben utilizar una
       "pata de gato" magnética para lanzar una bola amarilla a través de la boca
       del gato hacia el lado del tablero del oponente. Los jugadores ganan la
-      ronda cuando se deshacen de todas las bolas del tablero. "Cada ronda dura
+      ronda cuando se deshacen de todas las bolas del tablero. Cada ronda dura
       menos de un minuto, pero el nivel de emoción se dispara al intentar
-      deshacerse de las últimas bolas", explica Martin.
+      deshacerse de las últimas bolas.
     imageUrl: img/gameofcatandmouth.jpg
     link: https://amzn.to/3eupKVw
     ages: A partir de 7 años
     players: "2"
     duration: 10 minutos
   - heading: "¿Alcachofas? ¡No, gracias!? "
-    text: A 2021 American Tabletop Awards (ATTA) winner, this colorfully illustrated
-      card game imagines a world where people suddenly hate artichokes — and
-      your garden (aka, your hand of cards) is full of them. Your objective is
-      to swap out your exclusively artichoke-filled deck and harvest fresh
-      vegetables instead
+    text: Ganador de los American Tabletop Awards (ATTA) en 2021, este juego de cartas
+      de cartas, imagina un mundo en el que la gente de repente odia las alcachofas, y
+      tu jardín (o sea, tu mano de cartas) está lleno de ellas. Tu objetivo es
+      intercambiar tu mazo, exclusivamente lleno de alcachofas, y cosechar
+      verduras frescas.
     imageUrl: img/android-chrome-512x512.png
     link: https://amzn.to/3rZ5iPW
     ages: A partir de 10 años
@@ -35,26 +35,14 @@ games:
   - heading: Animal sobre animal
     imageUrl: img/BoardGamesIcon.png
     text: >-
-      Both Martin and Michael Barnes, senior board game reviews editor at There
-      Will Be Games, recommended the Jenga-like Animal Upon Animal, which
-      involves carefully balancing colorful, chunky wooden animals on the back
-      of a crocodile. Players roll a die to figure out their next move and win
-      by getting rid of all of their animals first.
-
-
-      The catch is, if any animals fall off the stack while you are placing one, you have to take them, which you don’t want
+     Este juego de mesa para niños consiste en equilibrar con cuidado animales grandes de madera de colores sobre la espalda de un cocodrilo. Los jugadores tiran un dado para averiguar su próximo movimiento y
+      ganan si se deshacen primero de todos sus animales. El truco es que si algún animal se cae de la pila mientras estás colocando uno, tienes que cogerlo, cosa que no quieres.
     link: https://amzn.to/3RYibUQ
     duration: 15 minutos
     players: 2-4
     ages: A partir de 4 años
   - heading: Cascadia
-    text: One of this year’s Spiel Des Jahres winners (the gaming world’s top award)
-      is this Pacific Northwest wildlife-themed tile-laying game. “It’s an
-      easygoing game with more depth than expected,” said Barnes and its
-      “appealing setting makes it easy for all ages to engage.” Players take
-      turns populating their terrain with various wildlife and score points by
-      creating harmonious ecosystems. The award-winning game has earned a
-      4.9-star average rating from 366 ratings
+    text: Uno de los ganadores del Spiel Des Jahres de este año (el premio más importante del mundo del juego) es este juego de colocación de fichas con temática de la vida salvaje del noroeste Americano. Los jugadores se turnan para poblar su terreno con distintos tipos de fauna y flora y consiguen puntos creando ecosistemas armoniosos.
     imageUrl: img/BoardGamesIcon.png
     link: https://www.amazon.es/dp/B093H8RGXX/ref=cm_sw_r_as_gl_apa_gl_i_YW84ME5FZRRQFHA0RPT6?linkCode=ml2&tag=alfmcalle-21
     ages: A partir de 10 años
@@ -64,15 +52,7 @@ games:
     imageUrl: img/BoardGamesIcon.png
     heading: Disney Villainous
     text: >-
-      Last year, Barnes called this title “the best Disney board game published
-      to date, offering players a chance to enact diabolic schemes straight from
-      the classic films.” Disney Villainous, which has earned a 4.7-star average
-      rating from over 5,800 reviews on Amazon, poses the question, ''What if
-      popular Disney villains actually triumphed?” Each player controls one of
-      six villains, with multiple expansions adding additional characters.
-
-
-      “This is a great choice for older kids and teens, but younger players will enjoy this with some help from older friends, siblings or parents,” Barnes said.
+     Considerado por muchos el mejor juego de mesa de Disney publicado hasta la fecha, ofrece a los jugadores la posibilidad de ser los malos de las diferentes peliculas de Disney. Disney Villainous, plantea la pregunta: "¿Qué pasaría si los populares villanos de Disney triunfaran de verdad?" Cada jugador controla a uno de los seis villanos, con múltiples expansiones que añaden personajes adicionales.
     players: 2-6
     ages: A partir de 10 años
     duration: "50 minutos "
