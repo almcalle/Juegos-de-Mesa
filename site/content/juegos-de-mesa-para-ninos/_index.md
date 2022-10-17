@@ -19,42 +19,6 @@ games:
     ages: A partir de 10 años
     players: 2-4
     duration: "20 minutos "
-  - link: https://amzn.to/3MBLhbi
-    imageUrl: img/disney.jpg
-    heading: Disney Villainous
-    text: 'Considerado por muchos el mejor juego de mesa de Disney publicado hasta
-      la fecha, ofrece a los jugadores la posibilidad de ser los malos de las
-      diferentes peliculas de Disney. Disney Villainous, plantea la pregunta:
-      "¿Qué pasaría si los populares villanos de Disney triunfaran de verdad?"
-      Cada jugador controla a uno de los seis villanos, con múltiples
-      expansiones que añaden personajes adicionales.'
-    players: 2-6
-    ages: A partir de 10 años
-    duration: "50 minutos "
-  - heading: A Game of Cat and Mouth
-    text: A Game of Cat and Mouth en un juego para dos jugadores que es "como jugar
-      al ping pong", pero en una mesa normal. Los jugadores deben utilizar una
-      "pata de gato" magnética para lanzar una bola amarilla a través de la boca
-      del gato hacia el lado del tablero del oponente. Los jugadores ganan la
-      ronda cuando se deshacen de todas las bolas del tablero. Cada ronda dura
-      menos de un minuto, pero el nivel de emoción se dispara al intentar
-      deshacerse de las últimas bolas.
-    imageUrl: img/gameofcatandmouth.jpg
-    link: https://amzn.to/3eupKVw
-    ages: A partir de 7 años
-    players: "2"
-    duration: 10 minutos
-  - heading: Cascadia
-    text: Uno de los ganadores del Spiel Des Jahres de este año (el premio más
-      importante del mundo del juego) es este juego de colocación de fichas con
-      temática de la vida salvaje del noroeste Americano. Los jugadores se
-      turnan para poblar su terreno con distintos tipos de fauna y flora y
-      consiguen puntos creando ecosistemas armoniosos.
-    imageUrl: img/cascadia.jpg
-    link: https://amzn.to/3yLsfJW
-    ages: A partir de 10 años
-    players: 1-4
-    duration: "30-40 minutos "
   - heading: Animal sobre animal
     imageUrl: img/animalsobreanimal.jpg
     text: >-
@@ -80,6 +44,42 @@ games:
     duration: 20 minutos
     ages: A partir de 8
     imageUrl: img/llama.jpg
+  - heading: A Game of Cat and Mouth
+    text: A Game of Cat and Mouth en un juego para dos jugadores que es "como jugar
+      al ping pong", pero en una mesa normal. Los jugadores deben utilizar una
+      "pata de gato" magnética para lanzar una bola amarilla a través de la boca
+      del gato hacia el lado del tablero del oponente. Los jugadores ganan la
+      ronda cuando se deshacen de todas las bolas del tablero. Cada ronda dura
+      menos de un minuto, pero el nivel de emoción se dispara al intentar
+      deshacerse de las últimas bolas.
+    imageUrl: img/gameofcatandmouth.jpg
+    link: https://amzn.to/3eupKVw
+    ages: A partir de 7 años
+    players: "2"
+    duration: 10 minutos
+  - heading: Cascadia
+    text: Uno de los ganadores del Spiel Des Jahres de este año (el premio más
+      importante del mundo del juego) es este juego de colocación de fichas con
+      temática de la vida salvaje del noroeste Americano. Los jugadores se
+      turnan para poblar su terreno con distintos tipos de fauna y flora y
+      consiguen puntos creando ecosistemas armoniosos.
+    imageUrl: img/cascadia.jpg
+    link: https://amzn.to/3yLsfJW
+    ages: A partir de 10 años
+    players: 1-4
+    duration: "30-40 minutos "
+  - link: https://amzn.to/3MBLhbi
+    imageUrl: img/disney.jpg
+    heading: Disney Villainous
+    text: 'Considerado por muchos el mejor juego de mesa de Disney publicado hasta
+      la fecha, ofrece a los jugadores la posibilidad de ser los malos de las
+      diferentes peliculas de Disney. Disney Villainous, plantea la pregunta:
+      "¿Qué pasaría si los populares villanos de Disney triunfaran de verdad?"
+      Cada jugador controla a uno de los seis villanos, con múltiples
+      expansiones que añaden personajes adicionales.'
+    players: 2-6
+    ages: A partir de 10 años
+    duration: "50 minutos "
   - heading: Draftosaurus
     text: Este juego de mesa para niños transforma a los jugadores en propietarios
       de parques temáticos al estilo de Parque Jurásico de forma sencilla y
