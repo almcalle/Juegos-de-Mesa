@@ -10,9 +10,9 @@
 
     {{ range $index, $element := .Params.games }}
     {{ if modBool $index 2 }}
-    {{ partial "game-block.html" $element }}
+    {{ partial "game-block" $element }}
     {{ else }}
-    {{ partial "game-block.html" $element }}
+    {{ partial "game-block" $element }}
     {{ end }}
     {{ end }}
 </div>
