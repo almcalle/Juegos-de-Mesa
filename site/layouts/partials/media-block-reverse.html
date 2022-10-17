@@ -1,15 +1,15 @@
 <div class="flex-m mhn3-m mb4">
 
   <div class="ph3-m w-50-m order-last-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2">
+    <img style="max-width: 500px;" src="{{.imageUrl}}" alt="" class="db mb2">
   </div>
 
   <div class="ph3-m w-50-m">
     <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
     <p>{{.text}}</p>
-    <p>Jugadores: {{.players}}</p>
-    <p>Edad: {{.ages}}</p>
-    <p>Duración: {{.duration}}</p>
+    <p style="font-weight: bold;">Jugadores: {{.players}}</p>
+    <p style="font-weight: bold;">Edad: {{.ages}}</p>
+    <p style="font-weight: bold;">Duración: {{.duration}}</p>
     <div class="tc">
       <a target="_blank" href="{{.link}}" class="btn raise">Ver más opiniones</a>
     </div>
