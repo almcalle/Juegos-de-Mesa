@@ -45,4 +45,4 @@ La ronda de juego es la misma que cuando usábamos las reglas estándar, pero ah
 * Tira los dados por segunda vez, y si te corresponde, toma esos recursos.
 * Después de tirar los dados dos veces, puedes realizar cualquier acción, intercambiar, construir o comprar cualquier carta de acción.
 
-Así es como se desarrollará una partida para el Catán de 2 jugadores.
+Así es como se puede jugar a una partida para el Catán de 2 jugadores.
