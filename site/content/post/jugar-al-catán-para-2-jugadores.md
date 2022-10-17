@@ -1,17 +1,16 @@
 ---
 title: Jugar al Catán para 2 jugadores
 date: 2022-10-17T12:50:40.299Z
-description: >-
-  ¿Quieres aprender a jugar al Catán para 2 jugadores? Esta es tu web, vamos a explicarte de forma sencilla Catán para 2 jugadores.
-
+description: ¿Quieres aprender a jugar al Catán para 2 jugadores? Esta es tu
+  web, vamos a explicarte de forma sencilla Catán para 2 jugadores.
 image: img/gamescover.png
 ---
 #### Preparación del juego
-Para jugar al Catán para 2 jugadores antes de nada necesitamos reunir 15 monedas, vale cualquier cosa, ya seán monedas de otros juegos, céntimos o lo que sea, hasta lentejas o granos de arroz, cuyo funcionamiento explicaré a continuación.
+Para jugar al Catán para 2 jugadores antes de nada necesitamos reunir 15 monedas, vale cualquier cosa, ya sean monedas de otros juegos, céntimos o lo que sea, hasta lentejas o granos de arroz, cuyo funcionamiento explicaré a continuación.
 
 El tablero se prepara como normalmente con la diferencia de que ponemos el desierto en el centro y a cada lado de este un poblado de los dos colores que no usarán los jugadores, estos serán los jugadores neutrales.
 
-Despues seguimos con la colocación de los jugadores como se hace normalmente, pero respetando la distancia con los poblados neutrales como si fueran un jugador más, durante todo el juego debemos respetar las reglas de distancia.
+Después seguimos con la colocación de los jugadores cómo se hace normalmente, pero respetando la distancia con los poblados neutrales como si fueran un jugador más, durante todo el juego debemos respetar las reglas de distancia.
 
 Los dos jugadores cogen los recursos que rodean al segundo poblado que han puesto y comenzamos la partida con normalidad.
 
