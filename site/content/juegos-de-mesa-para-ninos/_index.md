@@ -37,7 +37,7 @@ games:
     text: >-
      Este juego de mesa para niños consiste en equilibrar con cuidado animales grandes de madera de colores sobre la espalda de un cocodrilo. Los jugadores tiran un dado para averiguar su próximo movimiento y
       ganan si se deshacen primero de todos sus animales. El truco es que si algún animal se cae de la pila mientras estás colocando uno, tienes que cogerlo, cosa que no quieres.
-    link: https://amzn.to/3RYibUQ
+    link: https://amzn.to/3VKFMeX
     duration: 15 minutos
     players: 2-4
     ages: A partir de 4 años
