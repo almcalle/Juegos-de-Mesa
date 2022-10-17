@@ -1,4 +1,6 @@
 {{ define "main" }}
+  
+<meta name="description" content="{{ .Params.Description }}" />
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
