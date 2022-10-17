@@ -1,2 +1,3 @@
 languageCode = "es-ES"
 title = "Juegos de mesa para todos"
+enableRobotsTXT = true
