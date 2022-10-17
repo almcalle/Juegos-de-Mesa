@@ -2,62 +2,47 @@
 title: Jugar al Catán para 2 jugadores
 date: 2022-10-17T12:50:40.299Z
 description: >-
-  ¿Estas buscando las reglas de Catán para 2 jugadores? Estás en el sitio
-  correcto, vamos a explicarte de forma sencilla Catán para dos jugadores.
+  ¿Quieres aprender a jugar al Catán para 2 jugadores? Esta es tu web, vamos a explicarte de forma sencilla Catán para 2 jugadores.
 
-
-  El conocido juego de mesa Catán está diseñado para 3-4 jugadores y con su ampliación podemos jugar hasta 6 jugadores pero ¿qué pasa si solo somos dos para jugar?
-
-
-  No pasa nada, el bueno de Klaus Teuber, el diseñador del juego, creó unas reglas especiales para que podamos jugar 2 jugadores.
-
-
-  Para jugar dos personas al juego de mesa Catán usaremos las reglas normales de 3-4 jugadores y añadiremos unas pequeñas modificaciones para hacer que el juego sea igual o más divertido.
-
-
-  La verdad es que el juego sigue siendo igual de divertido aunque solo seamos dos jugadores.
 image: img/gamescover.png
 ---
-## Preparación del juego
+#### Preparación del juego
+Para jugar al Catán para 2 jugadores antes de nada necesitamos reunir 15 monedas, vale cualquier cosa, ya seán monedas de otros juegos, céntimos o lo que sea, hasta lentejas o granos de arroz, cuyo funcionamiento explicaré a continuación.
 
-Para empezar tendremos que usar dos jugadores fantasmas, al comenzar la partida pondremos un poblado de cada jugador fantasma, uno a cada lado del desierto. Solo ponemos el pueblo.
+El tablero se prepara como normalmente con la diferencia de que ponemos el desierto en el centro y a cada lado de este un poblado de los dos colores que no usarán los jugadores, estos serán los jugadores neutrales.
 
-![](https://playkings.es/wp-content/uploads/2020/03/20200324_2055581-1024x768.jpg)
-
-Después continuaremos con la preparación normal de la partida, primero el jugador uno pone un poblado y una carretera, después el jugador dos pone dos poblados con sus correspondientes carreteras y el jugador uno pone su segundo poblado con su carretera.
+Despues seguimos con la colocación de los jugadores como se hace normalmente, pero respetando la distancia con los poblados neutrales como si fueran un jugador más, durante todo el juego debemos respetar las reglas de distancia.
 
 Los dos jugadores cogen los recursos que rodean al segundo poblado que han puesto y comenzamos la partida con normalidad.
 
-## Rondas del Juego
+#### Monedas
 
-Las rondas de juego son iguales que cuando usamos las reglas estándar pero ahora cada jugador tira los dados dos veces,
+El cambio más importante es la introducción de monedas. Vamos a necesitar unas 15 monedas de cualquier tipo. Necesitaremos unas 15 monedas de cualquier tipo, te sirven monedas reales, algunas que tengamos de otros juegos o incluso podemos usar garbanzos o algo del estilo.
 
-* Tiras la primera vez los dados, si sale algún número de los recursos que rodean a alguno de tus poblados coges la piedra, madera, paja, borrego o arcilla que te corresponda.
-* Tira los dados por segunda vez y vuelve a recoger recursos si te corresponde.
-* Después de tirar los dados dos veces puedes hacer alguna acción, comerciar, construir o comprar alguna carta de acción.
+Cada jugador comenzará con cinco monedas y cada jugador podrá hacer dos cosas. El jugador ganador tendrá que gastar dos monedas, el jugador perdedor gastará dos monedas y en caso de empate, ambos jugadores gastarán dos monedas.
 
-Así irán pasando las rondas de los dos jugadores.
+* Si meten al ladrón en alguno de nuestros ladrillos, podemos enviarlo de regreso al desierto, y solo al desierto.
+* Podemos robar dos cartas de otros jugadores con monedas. Le robaremos dos cartas sin saber qué carta estamos sacando, y luego le daremos dos cartas más de nuestra mano.
 
-## Monedas
+Para conseguir más monedas, podemos las siguientes acciones:
 
-El cambio más importante es la introducción de las monedas. Necesitaremos unas 15 monedas de cualquier tipo, te sirven monedas reales, algunas que tengamos de otros juegos o incluso podemos usar garbanzos o algo del estilo.
+* Construye un poblado en algún lugar del desierto y obtendremos dos monedas.
+* La última forma de conseguir dos monedas es descartando una carta de caballero que poseamos.
+#### Jugadores neutrales
 
-Al comenzar cada jugador tendrá cinco monedas y con estas cada jugador podrá hacer dos cosas . El jugador que va ganando tendrá que gastar dos monedas, el que va perdiendo una y en caso de empate los dos jugadores gastarán dos monedas.
+Cada vez que construimos un camino o un poblado, tenemos que construir otro camino o poblado para uno de los jugadores neutrales.
 
-* Si nos ponen el ladrón en alguno de nuestros ladrillos podremos devolverlo al desierto y solo al desierto.
-* Y podremos usar las monedas para robarle dos cartas al otro jugador. Le robaremos dos cartas sin saber las que estamos robando y le damos otras dos cartas de nuestra mano.
+Si construimos poblados y los jugadores neutrales no construyen poblados de acuerdo con las reglas, simplemente construimos un camino en uno de los jugadores neutrales.
 
-Para conseguir más monedas podemos hacer dos acciones.
+Para construir ciudades o carreteras de jugadores neutrales, no tenemos que gastar recursos.
 
-* Construyendo un poblado en alguna de las esquinas del desierto conseguiremos dos monedas.
-* La última forma para conseguir dos monedas es descartando una carta de caballero que tengamos.
+Si vamos a construir una ciudad, no necesitaremos hacer nada con fragmentos de jugadores neutrales.
+#### Rondas del Juego
 
-## Jugadores Fantasma
+La ronda de juego es la misma que cuando usábamos las reglas estándar, pero ahora cada jugador tira los dados dos veces,
 
-Cada vez que construimos una carretera o un poblado nuestro tendremos que poner otra carretera o poblado para alguno de los jugadores fantasma.
+* La primera vez que tires los dados, si hay algún número en los recursos de tu poblado, elegirás la piedra, madera, paja, oveja o arcilla que te corresponda.
+* Tira los dados por segunda vez, y si te corresponde, toma esos recursos.
+* Después de tirar los dados dos veces, puedes realizar cualquier acción, intercambiar, construir o comprar cualquier carta de acción.
 
-Si construimos un poblado y los jugadores fantasma no cumplen las reglas para poder construir un poblado simplemente construiremos una carretera en alguno de los jugadores fantasma.
-
-Para construir el poblado o carretera del jugador fantasma no tenemos que gastar recursos.
-
-En caso de construir una ciudad no tendremos que hacer nada con las piezas de los jugadores fantasma.
+Así es como se desarrollará una partida para el Catán de 2 jugadores.
