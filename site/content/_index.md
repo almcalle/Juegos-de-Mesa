@@ -4,7 +4,7 @@ subtitle: Encuentra los mejores juegos de mesa para cada ocasión
 image: img/gamescover.png
 blurb:
   heading: Juegos de mesa para todos
-  text: Analizamos difeerentes juegos de mesa para ayudarte a buscar el juego de mesa ideal para cada ocasión, juegos de mesa para niños, juegos de mesa para parejas...
+  text: Analizamos diferentes juegos de mesa para ayudarte a buscar el juego de mesa ideal para cada ocasión, juegos de mesa para niños, juegos de mesa para parejas...
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -24,6 +24,6 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Juegos de mesa para niños 
-  text: Hemos analizado algunos de los mejores juegos de mesa para niños y niñas, para saber más pulsa el btón de abajo
+  heading: Los mejores juegos de mesa para niños 
+  text: Hemos analizado algunos de los mejores juegos de mesa para niños y niñas, para saber conocer nuestra lista de mejores juegos pulsa el botón de abajo
 ---
