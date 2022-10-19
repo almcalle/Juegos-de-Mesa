@@ -190,4 +190,32 @@ games:
     ages: A partir de 4 años
     players: Más de 2
     duration: 15 minutos
+  - link: https://amzn.to/3s86sIG
+    heading: Zingo
+    text: Zingo es una divertida versión del clásico bingo en la que los niños
+      obtienen una ficha que coincide con una casilla de sus respectivos
+      tableros. El primero que cubra su tablero con fichas iguales grita
+      "¡Zingo!". Es una buena práctica para los prelectores y los primeros
+      lectores, ya que cada ficha está representada por un dibujo. El juego ha
+      ganado múltiples premios, entre ellos el Oppenheim Toy Portfolio Gold Seal
+      Award 2002 y el ASTRA Best Toys for Kids Award 2011.
+    ages: A parti de 4 años
+    players: 2-7
+    duration: 5 minutos
+    imageUrl: img/zingo.jpg
+  - link: https://amzn.to/3yTr9ff
+    text: 'En este juego de mesa, los jugadores trabajan juntos para defender su
+      escuela de hordas de zombis, según Barnes. Dijo que es un gran juego para
+      "mostrar a los niños el valor de escuchar a los demás y evaluar las
+      situaciones para determinar los mejores resultados para todos". También es
+      un juego "heredado", lo que significa que puedes desbloquear personajes y
+      otros contenidos para futuras partidas cada vez que juegues. Disponible en
+      versiones para niños y adolescentes, Zombie Kidz: Evolution está muy bien
+      valorado, con una puntuación media de 4,8 estrellas en más de 500
+      opiniones en Amazon.'
+    heading: Zombie Kidz Evolution
+    imageUrl: img/zombiekidz.jpg
+    ages: A partir de 7
+    players: 2-4
+    duration: 5-15 minutos
 ---
