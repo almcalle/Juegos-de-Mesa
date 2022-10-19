@@ -30,6 +30,22 @@ games:
     duration: 15 minutos
     players: 2-4
     ages: A partir de 4 años
+  - text: >+
+      Es probable que reconozcas Minecraft: Builders & Biomes por el popular
+      juego de ordenador que lo inspiró. Se extraen recursos, se construyen
+      estructuras y se ganan puntos. Los jugadores también tienen la oportunidad
+      de luchar contra los monstruos tradicionales de Minecraft, como los
+      Creepers y los Endermen.
+
+
+      Una de las características más interesantes es el gran "cubo de recursos" que comparten todos los jugadores y que está compuesto por bloques de madera más pequeños que representan diversos recursos: los jugadores pueden "minar" el cubo y conseguir lo que necesitan para completar sus proyectos,
+
+    heading: "Minecraft: Builders & Biomes"
+    imageUrl: img/minecraft.jpg
+    link: https://amzn.to/3SdOsqQ
+    ages: A partir de 10 años
+    players: 2-4
+    duration: 30 a 60 minutos
   - link: https://amzn.to/3ewN6tT
     heading: Lama Party
     text: Otro de los nominados al Spiel Des Jahres 2022, este juego de cartas
@@ -116,20 +132,4 @@ games:
     players: 2-6
     duration: 20 minutos
     imageUrl: img/magicmountain.jpg
-  - text: >+
-      Es probable que reconozcas Minecraft: Builders & Biomes por el popular
-      juego de ordenador que lo inspiró. Se extraen recursos, se construyen
-      estructuras y se ganan puntos. Los jugadores también tienen la oportunidad
-      de luchar contra los monstruos tradicionales de Minecraft, como los
-      Creepers y los Endermen.
-
-
-      Una de las características más interesantes es el gran "cubo de recursos" que comparten todos los jugadores y que está compuesto por bloques de madera más pequeños que representan diversos recursos: los jugadores pueden "minar" el cubo y conseguir lo que necesitan para completar sus proyectos,
-
-    heading: "Minecraft: Builders & Biomes"
-    imageUrl: img/minecraft.jpg
-    link: https://amzn.to/3SdOsqQ
-    ages: A partir de 10 años
-    players: 2-4
-    duration: 30 a 60 minutos
 ---
