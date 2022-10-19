@@ -57,7 +57,7 @@ Los países están conectados entre sí a través de las líneas negras, rojas y
 
 #### Países controlados
 
-Cada país del mapa se considera Controlado por uno de los jugadores, o no está controlado. Un país se considera controlado por un jugador si:
+Cada país del mapa se considera Controlado por uno de los jugadores, o no controlado. Un país se considera controlado por un jugador si:
 
 * El jugador tiene puntos de influencia en el país mayores o iguales al número de estabilidad del país, y
 * La influencia del jugador en el país excede la influencia de su oponente en ese país en al menos el número de estabilidad del país.
