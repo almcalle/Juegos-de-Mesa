@@ -10,245 +10,279 @@ image: img/tscover.png
 
 ![Twilight Struggle board game](img/tsboard.jpg "Twilight Struggle board game")
 
-A complete game of Twilight Struggle includes the following:
+Un juego completo de Twilight Struggle incluye lo siguiente:
 
-* One Map Board
-* Two sheets of markers
-* One Rules Booklet
-* Two Player Aid Cards
-* 110 Cards
-* Two 6-sided dice
+* Un tablero de mapa
+* Dos hojas de marcadores
+* Un folleto de reglas
+* Dos cartas de ayuda al jugador
+* 110 cartas
+* Dos dados de 6 caras
 
-### The Game Map
+### El mapa del juego
 
-*"From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the continent". -Winston Churchill*
+*"Desde Szczecin en el Báltico hasta Trieste en el Adriático, un telón de acero ha descendido a través del continente". -Winston Churchill*
 
-The map is divided into six Regions: Europe, Asia, Central America, South America, Africa, and the Middle East. A region is a group of geopolitically connected nations, normally in close geographic proximity.
-
+El mapa está dividido en seis regiones: Europa, Asia, América Central, América del Sur, África y Oriente Medio. Una región es un grupo de naciones conectadas geopolíticamente, normalmente en estrecha proximidad geográfica.
 
 
 ![Twilight Struggle Europa](img/tseurope.png "Twilight Struggle Europa")
 
-Europe is divided into two sub-regions, Eastern Europe and Western Europe. Two historically neutral countries (Austria and Finland) are categorized as being in both Eastern and Western Europe.
+Europa se divide en dos subregiones, Europa Oriental y Europa Occidental. Dos países históricamente neutrales (Austria y Finlandia) están clasificados tanto en Europa Oriental como en Europa Occidental.
 
-Asia also contains a sub-region, Southeast Asia. The country spaces that comprise a region share a map color. Sub-regions have shades of the same color.
+Asia también contiene una subregión, el Sudeste Asiático. Los espacios de los países que componen una región comparten un color de mapa. Las subregiones tienen matices del mismo color.
 
 ![](img/tseuropas.png)
 
-**Design Note:** Although not exactly geographically correct, the Middle East includes Libya and Egypt for political purposes, while Canada and Turkey are included in the Europe Region.
+**Nota de diseño:** Aunque no es exactamente correcto desde el punto de vista geográfico, Oriente Medio incluye a Libia y Egipto a efectos políticos, mientras que Canadá y Turquía se incluyen en la región de Europa.
 
-Any event, rule, action, or card that refers to 'Europe' or 'Asia' includes the associated sub-regions.
+Cualquier evento, regla, acción o carta que se refiera a "Europa" o "Asia" incluye las subregiones asociadas.
 
-Each space on the map represents a country or bloc of countries (hereafter simply called a country). Each country has a Stability Number representing the country's overall stability, independence and power.
+Cada espacio en el mapa representa un país o bloque de países (en adelante llamado simplemente país). Cada país tiene un Número de Estabilidad que representa la estabilidad general del país, su independencia y su poder.
 
 ![](img/tscountryexplanation.png)
 
-#### Battleground States
+#### Estados del Campo de Batalla
 
-While most states have their names on white, Battleground countries operate the same way as normal spaces but have special rules for scoring and coup attempts. Their country name is highlighted in purple for easy recognition.
+Mientras que la mayoría de los estados tienen sus nombres en blanco, los países del Campo de Batalla funcionan de la misma manera que los espacios normales, pero tienen reglas especiales para la puntuación y los intentos de golpe. El nombre de su país está resaltado en púrpura para facilitar su reconocimiento.
 
-There are two spaces on the map representing the geographic locations of the United States and the Soviet Union. They are out of play for Influence Markers, but are considered "adjacent controlled countries" for the purposes of events, and realignments.
+Hay dos espacios en el mapa que representan las ubicaciones geográficas de los Estados Unidos y la Unión Soviética. Están fuera de juego para los Marcadores de Influencia, pero se consideran "países controlados adyacentes" a efectos de eventos y realineamientos.
 
-Countries are connected to one another via the black, red and brown lines on the map. Brown lines represent connections within a region. Red dashed lines represent connections between countries in different regions. The black lines indicate connections between countries and superpowers. A country is considered adjacent to all other countries to which it is connected.
+Los países están conectados entre sí a través de las líneas negras, rojas y marrones del mapa. Las líneas marrones representan conexiones dentro de una región. Las líneas rojas discontinuas representan conexiones entre países de diferentes regiones. Las líneas negras indican las conexiones entre países y superpotencias. Un país se considera adyacente a todos los demás países con los que está conectado.
 
-> **Design Note:** Being adjacent is not entirely a reflection of geography. Several countries that share physical boundaries do not have connections in the game. This is not a map error but is part of the mechanics of the game and the political situation of the times.
+> **Nota de diseño:** Ser adyacente no es totalmente un reflejo de la geografía. Varios países que comparten fronteras físicas no tienen conexiones en el juego. Esto no es un error del mapa, sino que forma parte de la mecánica del juego y de la situación política de la época.
+
 
 ![](https://www.ultraboardgames.com/twilight-struggle/gfx/game6.jpg)
 
-#### Controlling Countries
+#### Países controlados
 
-Each country on the map is considered Controlled by one of the players, or it is uncontrolled. A country is considered Controlled by a player if:
+Cada país del mapa se considera Controlado por uno de los jugadores, o no está controlado. Un país se considera controlado por un jugador si:
 
-* The player has Influence points in the country greater than or equal to the country's Stability Number, and
-* The player's Influence in the country exceeds his/her opponent's Influence in that country by at least the country's Stability Number.
+* El jugador tiene puntos de influencia en el país mayores o iguales al número de estabilidad del país, y
+* La influencia del jugador en el país excede la influencia de su oponente en ese país en al menos el número de estabilidad del país.
 
-> **Example:** To Control Israel (Stability Number 4), a player must have at least 4 Influence points in Israel, and must have at least 4 more Influence points in Israel than his/her opponent has.
+> **Ejemplo:** Para controlar Israel (Número de Estabilidad 4), un jugador debe tener al menos 4 puntos de Influencia en Israel, y debe tener al menos 4 puntos de Influencia más en Israel que los que tiene su oponente.
 
-### Cards
+### Cartas
 
-There are 110 cards used in the game. Each card contains an Operations Point value, an Event Title and an Event Description. Some cards are labeled SCORING, which must be played sometime during the turn they are drawn.
+Hay 110 cartas utilizadas en el juego. Cada carta contiene un valor de Puntos de Operaciones, un Título de Evento y una Descripción de Evento. Algunas cartas llevan la etiqueta PUNTUACIÓN, que debe jugarse en algún momento del turno en que se roban.
 
-Each card has a symbol to indicate which superpower is associated with its Event, as follows:
+Cada carta tiene un símbolo para indicar qué superpotencia está asociada a su Evento, como sigue:
 
-* Cards with a Red star only are associated with the USSR
-* Cards with a White star only are associated with the US
-* Cards with a split Red/White star are not associated with either side.
+* Las cartas con una estrella roja sólo están asociadas a la URSS
+* Las cartas con una estrella blanca están asociadas a los Estados Unidos.
+* Las cartas con una estrella roja/blanca dividida no están asociadas a ningún bando.
 
-Cards may be played in one of two ways, as Events or Operations.
+Las cartas pueden jugarse de dos maneras, como Eventos u Operaciones.
 
-##### Sample Card
+##### Carta de ejemplo
 
 ![](img/tsexamplecard.png)
 
-Many cards have an asterisk following their Event title. When these cards are played as Events, they are removed permanently from the game.
+Muchas cartas tienen un asterisco después de su título de Evento. Cuando estas cartas se juegan como Eventos, se eliminan permanentemente del juego.
 
-Cards that have their Event title underlined are displayed face-up on the side of the game board until they are cancelled (or the game ends).
+Las cartas que tienen su título de Evento subrayado se muestran boca arriba en el lado del tablero de juego hasta que se cancelan (o el juego termina).
 
-> **Play Note:** Player's may also indicate the play of underlined events with the numbered card reminder markers. They may be placed on map in the Events in Effect Box.
+> **Nota de juego:** Los jugadores también pueden indicar el juego de los eventos subrayados con los marcadores recordatorios de cartas numeradas. Pueden colocarse en el mapa en la Caja de Eventos en Efecto.
 
-Cards that are discarded (not permanently removed from the game) are placed in a face up pile adjacent to the draw pile.
+Las cartas que se descartan (no se eliminan permanentemente del juego) se colocan en una pila boca arriba adyacente a la pila de robo.
 
-### Markers
+### Marcadores
 
-The game includes various markers to assist play:
+El juego incluye varios marcadores para ayudar al juego:
 
 ![](img/tsindicator.png)
 
-## Setup
+## Configuración
 
-Shuffle the Early War cards and deal each player 8 cards. In addition, place 'The China Card' face up in front of the USSR player. The players are allowed to examine their cards prior to deploying their initial Influence markers.
+Baraja las cartas de la Primera Guerra y reparte 8 cartas a cada jugador. Además, coloca la "Carta de China" boca arriba frente al jugador de la URSS. Los jugadores pueden examinar sus cartas antes de desplegar sus marcadores de influencia iniciales.
 
-The USSR player sets up first. The USSR places a total of 15 Influence markers in the following locations: 1 in Syria, 1 in Iraq, 3 in North Korea, 3 in East Germany, 1 in Finland, and 6 anywhere in Eastern Europe.
+El jugador de la URSS despliega primero. La URSS coloca un total de 15 marcadores de Influencia en los siguientes lugares: 1 en Siria, 1 en Irak, 3 en Corea del Norte, 3 en Alemania Oriental, 1 en Finlandia y 6 en cualquier lugar de Europa del Este.
 
-The US player sets up second, placing a total of 25 Influence markers in the following locations: 2 in Canada, 1 in Iran, 1 in Israel, 1 in Japan, 4 in Australia, 1 in the Philippines, 1 in South Korea, 1 in Panama, 1 in South Africa, 5 in the United Kingdom, and 7 anywhere in Western Europe.
+El jugador estadounidense queda en segundo lugar, colocando un total de 25 marcadores de influencia en las siguientes ubicaciones: 2 en Canadá, 1 en Irán, 1 en Israel, 1 en Japón, 4 en Australia, 1 en Filipinas, 1 en Corea del Sur, 1 en Panamá, 1 en Sudáfrica, 5 en el Reino Unido y 7 en cualquier lugar de Europa Occidental.
 
-Place the US and USSR Space Race markers to the left of the Space Race track. Each player places his Military OP marker on the zero space of their respective Military Operations Track.
+Coloca los marcadores de Carrera Espacial de EE.UU. y de la URSS a la izquierda de la pista de Carrera Espacial. Cada jugador coloca su marcador de Operaciones Militares en el espacio cero de su respectivo Registro de Operaciones Militares.
 
-Place the Turn marker on the first space of the Turn Record Track. Place the Defcon marker on the 5 space of the DEFCON Track. Finally, place the VP marker on the Victory Points Track on the zero space.
+Coloca el marcador de Turno en el primer espacio del Registro de Turnos. Coloca el marcador de Defcon en la casilla 5 del Registro de DEFCON. Finalmente, coloca el marcador de PV en el Registro de Puntos de Victoria en el espacio cero.
 
 
 
 ![](img/tscover.png)
 
-## Game Play
+## Configuración
 
-Twilight Struggle has ten turns. Each turn represents between three and five years, and will involve six or seven normal card plays by each player.
+Baraja las cartas de la Primera Guerra y reparte 8 cartas a cada jugador. Además, coloca la "Carta de China" boca arriba frente al jugador de la URSS. Los jugadores pueden examinar sus cartas antes de desplegar sus marcadores de influencia iniciales.
 
-At the beginning of the game, each player receives eight cards from the Early War deck. At the beginning of turn 4, the Mid War deck is shuffled into the draw pile and the players' hand size increases to nine. At the beginning of turn 8, the Late War deck is shuffled into the draw pile.
+## Juego
 
-The Phasing Player is the player whose Action Round is currently being played.
+La Lucha del Crepúsculo tiene diez turnos. Cada turno representa entre tres y cinco años, y supondrá seis o siete jugadas de cartas normales por cada jugador.
 
-When there are no cards remaining in the draw deck, reshuffle all discards to form a new draw deck. Note that cards played as Events with an asterisk (*) are removed from the game when they are played, and are not shuffled into the new draw deck.
+Al principio de la partida, cada jugador recibe ocho cartas del mazo de Guerra Temprana. Al principio del turno 4, el mazo de Guerra Media se baraja en la pila de robo y el tamaño de la mano de los jugadores aumenta a nueve. Al principio del turno 8, el mazo de Guerra Tardía se baraja en la pila de robo.
 
-Deal all cards remaining in the draw deck before reshuffling, except in turns 4 and 8.
+El jugador en fase es el jugador cuya ronda de acción se está jugando en ese momento.
 
-When moving from the Early War deck to Mid War, or from Mid War to Late War, do not add in the discards to the deck-instead add the Mid War or Late War cards (as appropriate) to the existing deck and reshuffle.
+Cuando no queden cartas en el mazo de robo, baraja todos los descartes para formar un nuevo mazo de robo. Ten en cuenta que las cartas jugadas como Eventos con un asterisco (*) se eliminan del juego cuando se juegan, y no se barajan en el nuevo mazo de robo.
 
-The ignored discards remain in the discard pile for now, but will be reshuffled into the deck in the next reshuffle.
+Reparte todas las cartas que queden en el mazo de robo antes de volver a barajar, excepto en los turnos 4 y 8.
 
-A turn in Twilight Struggle has the following structure:
+Cuando se pasa del mazo de Guerra Temprana a Guerra Media, o de Guerra Media a Guerra Tardía, no se añaden los descartes al mazo, sino que se añaden las cartas de Guerra Media o Guerra Tardía (según corresponda) al mazo existente y se vuelve a barajar.
 
-1. Improve DEFCON Status
-2. Deal Cards
-3. Headline Phase
-4. Action Rounds
-5. Check Military Operations Status
-6. Reveal Held Card (Tournament only)
-7. Flip 'The China Card'
-8. Advance Turn Marker
-9. Final Scoring (after Turn 10 only)
+Los descartes ignorados permanecen en la pila de descartes por ahora, pero se volverán a barajar en el mazo en la siguiente barajada.
 
-#### A. Improve Defcon Status:
+Un turno en Twilight Struggle tiene la siguiente estructura
 
-If the DEFCON level is lower than 5, add one to the DEFCON status (towards Peace).
+1. 1. Mejorar el estado de DEFCON
+2. Repartir cartas
+3. Fase de encabezamiento
+4. Rondas de acción
+5. Comprobar el estado de las operaciones militares
+6. Revelar la carta de posesión (sólo en el torneo)
+7. Voltear "La Carta de China
+8. Avanzar el marcador de turno
+9. Puntuación final (sólo después del turno 10)
 
-#### B. Deal Cards
+#### A. Mejorar el estado de Defcon:
 
-Each player receives enough cards to bring their total hand size to 8 on turns 1-3. On turns 4-10, players should receive enough cards to bring their total hand size to 9. 'The China Card' is never included in this total.
+Si el nivel de DEFCON es inferior a 5, añade uno al estado de DEFCON (hacia la Paz).
 
-#### C. Headline Phase
+#### B. Repartir cartas
 
-Each player secretly selects a card from their hand. Once both players have made their choice, they reveal their cards to each other simultaneously.
+Cada jugador recibe suficientes cartas para que el tamaño total de su mano sea de 8 en los turnos 1-3. En los turnos 4-10, los jugadores deben recibir suficientes cartas para llevar el tamaño total de su mano a 9. La "Carta de China" nunca se incluye en este total.
 
-These cards are called 'Headline cards' and their Events take place in this phase (and if the event title has an asterisk, are removed from the game normally).
+#### C. Fase de titulares
 
-To determine which Event takes place first, look at the Operations value on each card; that is its Headline Value.
+Cada jugador elige en secreto una carta de su mano. Una vez que ambos jugadores han hecho su elección, revelan sus cartas al otro simultáneamente.
 
-The card with the higher Headline Value takes effect first. In the event of a tie, the Headline Event played by the US player goes into effect first.
+Estas cartas se llaman "cartas de Titular" y sus Eventos tienen lugar en esta fase (y si el título del evento tiene un asterisco, se eliminan del juego normalmente).
 
-* Scoring cards may be played during the Headline Phase. However, they are considered to have a Headline Value of zero (0) and always take effect second. If both players select a scoring card as their Headline Cards, the US player's scoring card takes effect first.
-* Players must create a Headline event, regardless of whether the event helps them or their opponent.
-* The China Card may not be played during the Headline Phase.
-* Unless the headline event specifically refers to availability of operations points, neither player receives operations points from cards played during the headline phase.
+Para determinar qué Evento tiene lugar primero, mira el valor de Operaciones de cada carta; ese es su Valor de Cabecera.
 
-> **Note:** If playing an opponent's event during the Headline phase, your opponent implements the event text as if they had played the card themselves. However, the player of the headline card would be considered the phasing player for purposes of the DEFCON status.
+La carta con el Valor del Titular más alto tiene efecto primero. En caso de empate, el Evento Titular jugado por el jugador estadounidense entra en vigor primero.
 
-#### D. Action Rounds
+* Se pueden jugar cartas de puntuación durante la Fase de Titularidad. Sin embargo, se considera que tienen un Valor de Titularidad de cero (0) y siempre tienen efecto en segundo lugar. Si ambos jugadores seleccionan una carta de puntuación como sus Cartas de Titularidad, la carta de puntuación del jugador de EE.UU. entra en vigor primero.
+* Los jugadores deben crear un evento de Titularidad, independientemente de si el evento les ayuda a ellos o a su oponente.
+* La Carta de China no puede ser jugada durante la Fase de Titular.
+* A menos que el evento de cabecera se refiera específicamente a la disponibilidad de puntos de operaciones, ningún jugador recibe puntos de operaciones de las cartas jugadas durante la fase de cabecera.
 
-There are six Action Rounds in turns 1 to 3 and seven action rounds turns 4 to 10. Players alternate playing cards, one per Action Round, for a total of six cards during turns 1 to 3, and seven cards during turns 4 to 10.
+> **Nota:** Si juegas un evento del oponente durante la fase de titulares, tu oponente ejecuta el texto del evento como si hubiera jugado la carta él mismo. Sin embargo, el jugador de la carta de titular se considerará el jugador en fase a efectos del estado de DEFCON.
 
-The USSR player always takes his or her Action Round first, followed by the US player. All actions required by each card must be resolved before the next player starts his or her Action Round by playing a card. The player taking his or her Action Round is called the 'Phasing Player'.
+## Configuración
 
-* Ordinarily, a player will have a card left over after the completion of all Action Rounds. This card is considered 'held', and may be played in subsequent rounds. Scoring cards may never be held.
-* If a player has insufficient cards to take the requisite number of actions for the turn, that player must sit out of the remaining Action Rounds while the opposing player completes the turn.
+Baraja las cartas de la Primera Guerra y reparte 8 cartas a cada jugador. Además, coloca la "Carta de China" boca arriba frente al jugador de la URSS. Los jugadores pueden examinar sus cartas antes de desplegar sus marcadores de influencia iniciales.
 
-#### E. Check Military Operations Phase
+## Juego
 
-Each player determines if they are penalized Victory Points for failing to perform enough Military Operations during the turn. Each player then resets his Military Operations markers back to zero.
+La Lucha del Crepúsculo tiene diez turnos. Cada turno representa entre tres y cinco años, y supondrá seis o siete jugadas de cartas normales por cada jugador.
 
-#### F. Reveal Held Card
+Al principio de la partida, cada jugador recibe ocho cartas del mazo de Guerra Temprana. Al principio del turno 4, el mazo de Guerra Media se baraja en la pila de robo y el tamaño de la mano de los jugadores aumenta a nueve. Al principio del turno 8, el mazo de Guerra Tardía se baraja en la pila de robo.
 
-During Tournament or competitive play, both players should reveal any held cards to their opponents to ensure that all required scoring cards are played during the round.
+El jugador en fase es el jugador cuya ronda de acción se está jugando en ese momento.
 
-Since this detracts from some elements of secrecy in the game, it is not necessary to use this rule in a non-competitive environment.
+Cuando no queden cartas en el mazo de robo, baraja todos los descartes para formar un nuevo mazo de robo. Ten en cuenta que las cartas jugadas como Eventos con un asterisco (*) se eliminan del juego cuando se juegan, y no se barajan en el nuevo mazo de robo.
 
-#### G. Flip China Card
+Reparte todas las cartas que queden en el mazo de robo antes de volver a barajar, excepto en los turnos 4 y 8.
 
-If *The China Card* was passed face-down during the turn, flip it face-up now.
+Cuando se pasa del mazo de Guerra Temprana a Guerra Media, o de Guerra Media a Guerra Tardía, no se añaden los descartes al mazo, sino que se añaden las cartas de Guerra Media o Guerra Tardía (según corresponda) al mazo existente y se vuelve a barajar.
 
-#### H. Advance Turn Marker
+Los descartes ignorados permanecen en la pila de descartes por ahora, pero se volverán a barajar en el mazo en la siguiente barajada.
 
-Move the Turn Marker to the next turn. If it is the end of turn 3, shuffle the Mid War cards into the draw deck. If it is the end of turn 7, shuffle the Late war cards into the draw deck.
+Un turno en Twilight Struggle tiene la siguiente estructura
 
-#### I. Final Scoring
+1. 1. Mejorar el estado de DEFCON
+2. Repartir cartas
+3. Fase de encabezamiento
+4. Rondas de acción
+5. Comprobar el estado de las operaciones militares
+6. Revelar la carta de posesión (sólo en el torneo)
+7. Voltear "La Carta de China
+8. Avanzar el marcador de turno
+#### D. Rondas de acción
 
-At the end of turn 10, perform Final Scoring as described in the Scoring rules.
+Hay seis Rondas de Acción en los turnos 1 a 3 y siete rondas de acción en los turnos 4 a 10. Los jugadores se alternan jugando cartas, una por Ronda de Acción, para un total de seis cartas durante los turnos 1 a 3, y siete cartas durante los turnos 4 a 10.
 
-## Card Play
+El jugador de la URSS siempre realiza su ronda de acción primero, seguido por el jugador de EE.UU. Todas las acciones requeridas por cada carta deben resolverse antes de que el siguiente jugador comience su Ronda de Acción jugando una carta. El jugador que comienza su Ronda de Acción se denomina "Jugador en Fase".
 
-Cards may be played in one of two ways: as Events or Operations. Ordinarily, players will hold one card in their hand at the end of the turn. All other cards will be used for events or operations.
+* Normalmente, un jugador tendrá una carta sobrante después de completar todas las rondas de acción. Esta carta se considera "retenida", y puede ser jugada en rondas posteriores. Las cartas de puntuación nunca pueden ser retenidas.
+* Si un jugador no tiene suficientes cartas para llevar a cabo el número requerido de acciones para el turno, ese jugador debe quedarse fuera de las Rondas de Acción restantes mientras el jugador contrario completa el turno.
 
-Players may not forgo their turn by declining to play a card, or by discarding a card from their hand. Events Associated With Your Opponent: If a player plays a card as an Operation, and the card's Event is associated only with his opponent, the Event still occurs (and the card, if it has an asterisk after the Event title, is removed).
+#### E. Comprobar la Fase de Operaciones Militares
 
-> **Note:** When playing a card for operations and it triggers your opponent's event, your opponent implements the event text as if they had played the card themselves.
+Cada jugador determina si es penalizado con Puntos de Victoria por no haber realizado suficientes Operaciones Militares durante el turno. A continuación, cada jugador pone a cero sus marcadores de Operaciones Militares.
 
-* The phasing player always decides whether the event is to take place before or after the Operations are conducted.
-* If a card play triggers an opponent's Event, but that Event cannot occur because a prerequisite card has not been played, or a condition expressed in the Event has not been met, the Event does not occur. In this instance, cards with an asterisk Event (marked *) are returned to the discard pile, not removed from the game.
+#### F. Revelación de la carta guardada
 
-  If a card play triggers an opponent's Event, but play of that event has been prohibited by a superseding Event card, then the Event does not occur, and the card remains in play for Operations points only.
-* If a card play triggers an opponent's Event, but the event results in no effect, the Event is still considered played, and would still be removed if it has an asterisk.
+Durante el Torneo o el juego competitivo, ambos jugadores deben revelar cualquier carta retenida a sus oponentes para asegurar que todas las cartas de puntuación requeridas son jugadas durante la ronda.
+
+Dado que esto resta algunos elementos de secreto en el juego, no es necesario usar esta regla en un entorno no competitivo.
+
+#### G. Voltear la Carta China
+
+Si *La Carta de China* se pasó boca abajo durante el turno, dale la vuelta ahora boca arriba.
+
+#### H. Avanzar el marcador de turno
+
+Mueve el marcador de turno al siguiente turno. Si es el final del turno 3, baraja las cartas de Guerra Media en el mazo de robo. Si es el final del turno 7, baraja las cartas de Guerra tardía en el mazo de robo.
+
+#### I. Puntuación final
+
+Al final del turno 10, realiza la puntuación final como se describe en las reglas de puntuación.
+
+## Juego de Cartas
+
+Las cartas pueden jugarse de dos maneras: como Eventos u Operaciones. Normalmente, los jugadores tendrán una carta en su mano al final del turno. Todas las demás cartas se utilizarán para eventos u operaciones.
+
+Los jugadores no pueden renunciar a su turno rechazando jugar una carta, o descartando una carta de su mano. Eventos Asociados con el Oponente: Si un jugador juega una carta como Operación, y el Evento de la carta está asociado sólo con su oponente, el Evento sigue ocurriendo (y la carta, si tiene un asterisco después del título del Evento, se elimina).
+
+> **Nota:** Cuando se juega una carta para operaciones y ésta desencadena el evento de su oponente, su oponente implementa el texto del evento como si hubiera jugado la carta él mismo.
+
+* El jugador en fase siempre decide si el evento debe tener lugar antes o después de que se realicen las operaciones.
+* Si el juego de una carta desencadena un Evento del oponente, pero ese Evento no puede ocurrir porque no se ha jugado una carta de prerrequisito, o no se ha cumplido una condición expresada en el Evento, el Evento no ocurre. En este caso, las cartas con un asterisco de Evento (marcado con un *) se devuelven a la pila de descartes, no se eliminan del juego.
+
+  Si una carta desencadena un Evento del oponente, pero el juego de ese evento ha sido prohibido por una carta de Evento que lo sustituye, entonces el Evento no ocurre, y la carta permanece en juego sólo para puntos de Operaciones.
+* Si el juego de una carta desencadena un Evento del oponente, pero el evento no produce ningún efecto, el Evento aún se considera jugado, y aún sería eliminado si tiene un asterisco.
 
 > ![](img/tscardorder.png)
 >
-> *Example 1:* The USSR player plays the 'NATO' card before the 'Marshall Plan' or 'Warsaw Pact' cards have been played. The USSR player would get the benefit of the 4 Operations points, but the US would not get the 'NATO' event. However, despite being asterisked, the 'NATO' card would not be removed from play. It would be placed in the discard pile to be reshuffled and possibly played later.
+> *Ejemplo 1:* El jugador de la URSS juega la carta "OTAN" antes de que se hayan jugado las cartas "Plan Marshall" o "Pacto de Varsovia". El jugador de la URSS obtendría el beneficio de los 4 puntos de Operaciones, pero EE.UU. no obtendría el evento "OTAN". Sin embargo, a pesar de estar marcada con un asterisco, la carta "OTAN" no se retiraría del juego. Se colocaría en la pila de descartes para ser barajada de nuevo y posiblemente jugada más tarde.
 >
-> *Example 2:* The US player plays 'Arab-Israeli War' for 2 Operations. However, during his previous Action Round he played 'Camp David Accords' which prohibits play of 'Arab-Israeli War' as an Event. The US player would still conduct 2 Operations, but the USSR player would not get the benefit of the Event, and the card would not be eliminated from the game.
+> Ejemplo 2: El jugador de EE.UU. juega "Guerra Árabe-Israelí" para 2 operaciones. Sin embargo, durante su anterior Ronda de Acción jugó los "Acuerdos de Camp David" que prohíben jugar la "Guerra Árabe-Israelí" como Evento. El jugador de EE.UU. aún realizaría 2 Operaciones, pero el jugador de la URSS no obtendría el beneficio del Evento, y la carta no sería eliminada del juego.
 >
-> *Example 3:* The USSR Player plays 'Alliance for Progress;' however, the US Player does not control a Battleground country in either South or Central America. Nevertheless, the Event is considered played, and the card would be removed from the game after the USSR player's round.
+> Ejemplo 3: El jugador de la URSS juega la "Alianza para el Progreso"; sin embargo, el jugador de EE.UU. no controla ningún país del Campo de Batalla ni en América del Sur ni en América Central. No obstante, el Evento se considera jugado, y la carta sería eliminada del juego después de la ronda del jugador de la URSS.
 >
-> *Example 4:* The USSR player plays 'Star Wars', but the US player is ahead on the Space Race track. The result is no effect and the 'Star Wars' card is returned to the discard pile.
+> *Ejemplo 4:* El jugador de la URSS juega "Guerra de las Galaxias", pero el jugador de EE.UU. está por delante en el registro de la Carrera Espacial. El resultado es que no tiene efecto y la carta "Star Wars" se devuelve a la pila de descartes.
 
-When a card played as an Event requires the play or discard of another card of a specific value, a higher valued card will always satisfy the requirement.
+Cuando una carta jugada como Evento requiere el juego o el descarte de otra carta de un valor específico, una carta de mayor valor siempre satisfará el requisito.
 
-> *Example:* The 'Quagmire' card requires the US player to discard a 2 Operations card. If the US plays a 3 Operations card, the requirement is still met.
+> Ejemplo: La carta "Quagmire" requiere que el jugador de EE.UU. se descarte de una carta de Operaciones de 2. Si EE.UU. juega una carta de Operaciones de 3, se devuelve a la pila de descartes. Si EE.UU. juega una carta de Operaciones de 3, el requisito se cumple igualmente.
 
-When an event forces a player to discard a card, the Event on the discarded card is not implemented. This rule also applies to Scoring cards.
+Cuando un evento obliga a un jugador a descartar una carta, el Evento en la carta descartada no se implementa. Esta regla también se aplica a las cartas de Puntuación.
 
-## Operations
+## Operaciones
 
-Operations can be used in the following ways: to place Influence markers, to make Realignment rolls, to attempt Coups, or to attempt advancement in the Space Race.
+Las operaciones pueden usarse de las siguientes maneras: para colocar marcadores de Influencia, para hacer tiradas de Realineación, para intentar Golpes, o para intentar avanzar en la Carrera Espacial.
 
-When a card is played as an Operations card, the player must choose to use all of the Operations points on one of the following options: Marker Placement, Realignment rolls, Coup Attempts or a Space Race attempt.
+Cuando una carta se juega como carta de Operaciones, el jugador debe elegir utilizar todos los puntos de Operaciones en una de las siguientes opciones: Colocación de Marcadores, tiradas de Realineación, intentos de Golpe o un intento de Carrera Espacial.
 
-### Placing Influence Markers
+### Colocación de Marcadores de Influencia
 
-*"Everyone imposes his own system as far as his army can reach". -Joseph Stalin*
+*"Cada uno impone su propio sistema hasta donde llega su ejército". -Joseph Stalin*
 
-Influence markers are placed one at a time. However, all markers must be placed with, or adjacent to, friendly markers that were in place at the start of the phasing player's Action Round.
+Los marcadores de influencia se colocan de uno en uno. Sin embargo, todos los marcadores deben ser colocados con, o adyacentes a, los marcadores amigos que estaban en su lugar al comienzo de la Ronda de Acción del jugador en fase.
 
-> **Exception:** markers placed when required by an Event are not subject to this restriction, unless specifically stated otherwise on the card.
+> Excepción: los marcadores colocados cuando son requeridos por un Evento no están sujetos a esta restricción, a menos que se indique específicamente lo contrario en la carta.
 
-If the amount of influence is sufficent to gain control of the country, place the marker on its darker side.
+Si la cantidad de influencia es suficiente para obtener el control del país, coloca el marcador en su lado oscuro.
 
-It costs one (1) Operations point to place an Influence marker in a country that is friendly-Controlled or uncontrolled. It costs two (2) Operations points to place an Influence marker in an enemy-Controlled country.
+Cuesta un (1) punto de Operaciones colocar un marcador de Influencia en un país amigo-controlado o no controlado. Cuesta dos (2) puntos de Operaciones colocar un marcador de Influencia en un país controlado por el enemigo.
 
-If a country's Control status changes while placing Influence markers, additional markers placed during that Action Round are placed at the lower cost.
+Si el estado de control de un país cambia mientras se colocan los marcadores de influencia, los marcadores adicionales colocados durante esa ronda de acción se colocan al coste más bajo.
 
-> *Example:* The US player has 2 Influence markers in Turkey and the USSR player has none. Therefore, the US controls Turkey. The USSR player uses a 4 Operations point card to place Influence markers.
+> *Ejemplo:* El jugador estadounidense tiene 2 marcadores de Influencia en Turquía y el jugador de la URSS no tiene ninguno. Por lo tanto, Estados Unidos controla Turquía. El jugador de la URSS utiliza una carta de 4 puntos de Operaciones para colocar marcadores de Influencia.
 >
-> When placing markers in Turkey, the first marker costs 2 Operations points. However, after placement of the first USSR influence marker, the US no longer exceeds USSR influence in Turkey by the Stability Number of 2, thus, a second or third Soviet influence marker would only cost 1 operation point per marker.
+> Cuando se colocan marcadores en Turquía, el primer marcador cuesta 2 puntos de Operaciones. Sin embargo, después de colocar el primer marcador de influencia de la URSS, los EE.UU. ya no superan la influencia de la URSS en Turquía por el Número de Estabilidad de 2, por lo tanto, un segundo o tercer marcador de influencia soviético sólo costaría 1 punto de operaciones por marcador.
 >
-> If the US player started with only 1 influence marker in Turkey, the US player would not control Turkey. Therefore, any Soviet influence placement would only cost 1 operations point per marker
+> Si el jugador estadounidense comenzara con sólo 1 marcador de influencia en Turquía, el jugador estadounidense no controlaría Turquía. Por lo tanto, cualquier colocación de influencia soviética sólo costaría 1 punto de operaciones por marcador
 >
 > ![](img/tscontrolexplanaition.png)
 >
@@ -258,304 +292,304 @@ Influence markers may be placed in multiple regions and multiple countries up to
 
 > ![](img/tscontrolplacement.png)
 >
-> *Example:* The US player has existing markers in Panama and South Korea. The US player uses a 3 Operations Point card to place more influence. The US player may place Influence markers in both Costa Rica and Colombia
+> *Ejemplo:* El jugador estadounidense tiene marcadores existentes en Panamá y Corea del Sur. El jugador estadounidense utiliza una carta de 3 puntos de operaciones para colocar más influencia. El jugador estadounidense puede colocar marcadores de influencia tanto en Costa Rica como en Colombia
 >
-> However, he cannot place Influence markers in Costa Rica and then Nicaragua. On the other hand, since Influence markers are already present, he could use any remaining operation points to strengthen South Korea or its neighboring countries.
+> Sin embargo, no puede colocar marcadores de Influencia en Costa Rica y luego en Nicaragua. Por otro lado, como los marcadores de Influencia ya están presentes, podría utilizar los puntos de operación restantes para reforzar Corea del Sur o sus países vecinos.
 
-Influence markers may always be placed in any country that is adjacent (connected) to the phasing player's superpower space.
+Los marcadores de influencia siempre pueden colocarse en cualquier país que esté adyacente (conectado) al espacio de superpotencia del jugador en fase.
 
-Influence markers are treated like cash. Players may 'break' a large denomination into smaller denominations at any time. Additionally, the number of Influence markers included in the game is not an absolute limit. Small poker chips, coins or wooden blocks can be utilized to substitute in the event of a marker shortage.
+Los marcadores de influencia se tratan como dinero en efectivo. Los jugadores pueden "romper" una denominación grande en denominaciones más pequeñas en cualquier momento. Además, el número de marcadores de influencia incluidos en el juego no es un límite absoluto. Se pueden utilizar pequeñas fichas de póquer, monedas o bloques de madera para sustituirlos en caso de que falten marcadores.
 
-If a player has two or more markers in a country, place the larger denomination on top. Influence markers are open to inspection at all times
+Si un jugador tiene dos o más marcadores en un país, coloca el de mayor denominación en la parte superior. Los marcadores de influencia están abiertos a la inspección en todo momento
 
-### Realignment Rolls
+### Tiradas de realineación
 
-Realignment rolls are used to reduce enemy Influence in a country. To attempt a Realignment roll, the acting player need not have any Influence in the target country or in any adjacent country-although this improves the chance of success greatly.
+Las tiradas de realineación se utilizan para reducir la influencia enemiga en un país. Para intentar una tirada de Realineación, el jugador que actúa no necesita tener ninguna Influencia en el país objetivo o en cualquier país adyacente -aunque esto mejora la posibilidad de éxito en gran medida.
 
-When using a card for Realignment rolls, the player may resolve each roll before declaring the next target. Countries may be targeted for Realignment more than once per Action Round.
+Cuando se utiliza una carta para las tiradas de Realineación, el jugador puede resolver cada tirada antes de declarar el siguiente objetivo. Los países pueden ser objetivo de realineación más de una vez por ronda de acción.
 
-It costs one Operations point to make a Realignment roll. Each player rolls a die and the high roller may remove the difference between the rolls from their opponent's Influence in the target country. Ties are considered a draw, and no markers are removed. Each player modifies his die roll:
+Cuesta un punto de Operaciones hacer una tirada de Realineación. Cada jugador tira un dado y el que saque la mejor tirada puede eliminar la diferencia entre las tiradas de la Influencia de su oponente en el país objetivo. Los empates se consideran un empate, y no se retira ningún marcador. Cada jugador modifica su tirada:
 
-* +1 for each adjacent controlled country,
-* +1 if they have more Influence in the target country than their opponent,
-* +1 if your Superpower is adjacent to the target country.
+* +1 por cada país controlado adyacente,
+* +1 si tiene más Influencia en el país objetivo que su oponente,
+* +1 si su Superpotencia está adyacente al país objetivo.
 
-> *Example:* The US player targets North Korea for Realignment. There are 3 USSR Influence points in North Korea, while the US player has none.
+* * Ejemplo:* El jugador de EE.UU. tiene como objetivo a Corea del Norte para su Realineación. Hay 3 puntos de influencia de la URSS en Corea del Norte, mientras que el jugador estadounidense no tiene ninguno.
 >
-> The US player has no modifiers-he does not control any adjacent countries and has less Influence in North Korea then the Soviets.
+> El jugador estadounidense no tiene modificadores, no controla ningún país adyacente y tiene menos influencia en Corea del Norte que los soviéticos.
 >
-> The USSR player has +1 because North Korea is adjacent to the USSR and +1 for having more Influence in North Korea then the US. The US player gets lucky and rolls a 5 while the USSR player rolls a 2 which is modified to 4.
+> El jugador de la URSS tiene +1 porque Corea del Norte está adyacente a la URSS y +1 por tener más Influencia en Corea del Norte que los EEUU. El jugador estadounidense tiene suerte y saca un 5 mientras que el jugador de la URSS saca un 2 que se modifica a 4.
 >
-> The result is the USSR player must remove one Influence point from North Korea.
+> El resultado es que el jugador de la URSS debe eliminar un punto de influencia de Corea del Norte.
 
-No Influence is ever added to a country as a result of a Realignment roll
+Nunca se añade influencia a un país como resultado de una tirada de realineación.
 
-### Coup Attempts
+### Intentos de Golpe de Estado
 
-A Coup represents operations short of full-scale war to change the composition of a target country's government.
+Un Golpe de Estado representa operaciones que no son una guerra a gran escala para cambiar la composición del gobierno de un país objetivo.
 
-A player attempting a Coup need not have any Influence in the target country or in an adjacent country to attempt the Coup. However, your opponent must have Influence markers in the target country for a Coup to be attempted.
+Un jugador que intenta un Golpe no necesita tener ninguna Influencia en el país objetivo o en un país adyacente para intentar el Golpe. Sin embargo, su oponente debe tener marcadores de Influencia en el país objetivo para poder intentar un Golpe.
 
-To resolve a Coup attempt, multiply the Stability Number of the target country by two (x2). Then roll a die and add the Operations points on the card to it.
+Para resolver un intento de Golpe, multiplica el Número de Estabilidad del país objetivo por dos (x2). Luego tira un dado y súmale los puntos de Operaciones de la carta.
 
-If this modified die roll is greater than the doubled stability number, the coup is successful, otherwise it fails. If the coup is successful remove opposing Influence markers equal to the difference from the target country. If there are insufficient opposing Influence markers to remove, add friendly Influence markers to make up the difference.
+Si esta tirada modificada es mayor que el número de estabilidad duplicado, el golpe tiene éxito, de lo contrario fracasa. Si el golpe tiene éxito, se eliminan los marcadores de influencia contrarios iguales a la diferencia del país objetivo. Si no hay suficientes marcadores de influencia contrarios para eliminar, añade marcadores de influencia amigos para compensar la diferencia.
 
-Move the marker on the Military Operations track up the number of spaces equal to the Operations value of the card played.
+Mueve el marcador en el registro de Operaciones Militares hacia arriba el número de espacios igual al valor de Operaciones de la carta jugada.
 
-> *Example:* The US player plays a 3 Operations card to conduct a coup attempt in Mexico. The US player has no Influence in Mexico; the USSR player has 2 Influence points.
+> Ejemplo: El jugador de EE.UU. juega una carta de Operaciones 3 para llevar a cabo un intento de golpe de estado en México. El jugador estadounidense no tiene influencia en México; el jugador de la URSS tiene 2 puntos de influencia.
 >
 > ![](img/tsafterbeforecoup.png)
 >
-> First the US player adjusts his marker on the Military Operations Track to show that he has spent three points on Military Operations this turn.Then he rolls the die for a 4 and adds his Operations Number (3) to get a 7. He now subtracts twice the value of Mexico's Stability Number (2x2=4) from this result to get a final total of 3.
+> Primero, el jugador estadounidense ajusta su marcador en el Registro de Operaciones Militares para mostrar que ha gastado tres puntos en Operaciones Militares este turno.Luego, tira el dado para obtener un 4 y añade su Número de Operaciones (3) para obtener un 7. Ahora resta el doble del valor del Número de Estabilidad de México (2x2=4) de este resultado para obtener un total final de 3.
 >
-> This is the number of Influence markers he may remove from/add to Mexico. First, the US would remove the 2 Soviet Influence markers, then place 1 US Influence marker.
+> Este es el número de marcadores de influencia que puede quitar/añadir a México. En primer lugar, EE.UU. retiraría los 2 marcadores de Influencia soviéticos, y luego colocaría 1 marcador de Influencia estadounidense.
 
-Any Coup attempt in a Battleground country degrades the DEFCON status one level (towards Nuclear War).
+Cualquier intento de Golpe de Estado en un país del Campo de Batalla degrada el estado de DEFCON un nivel (hacia la Guerra Nuclear).
 
-Cards that state a player may make a "free Coup roll" in a particular region may ignore the geographic restrictions of the current DEFCON level. However, a "free Coup roll" used against a Battleground country would still lower DEFCON.
+Las cartas que indican que un jugador puede hacer una "tirada de Golpe gratuita" en una región concreta pueden ignorar las restricciones geográficas del nivel de DEFCON actual. Sin embargo, una "tirada de Golpe de Estado gratuita" utilizada contra un país del Campo de Batalla seguiría bajando el DEFCON.
 
-### The Space Race
+### La Carrera Espacial
 
-*"We go into space because whatever mankind must undertake, free men must fully share . . . I believe that this nation should commit itself to achieving the goal, before the decade is out, of landing a man on the moon and returning him safely to the earth". -John F. Kennedy*
+*"Vamos al espacio porque todo lo que la humanidad debe emprender, los hombres libres deben compartirlo plenamente... Creo que esta nación debe comprometerse a lograr el objetivo, antes de que termine la década, de hacer aterrizar a un hombre en la luna y devolverlo sano y salvo a la tierra". -John F. Kennedy
 
-The Space Race track contains a marker for each superpower. Operations points may be spent by a superpower to attempt to move its marker to the next box on the track.
+La pista de la Carrera Espacial contiene un marcador para cada superpotencia. Una superpotencia puede gastar puntos de operaciones para intentar mover su marcador a la siguiente casilla del tablero.
 
-To do so, play a card with an Operations point value equal to or greater than the number shown on the track into which you are attempting to advance. Roll the die: if the number falls within the range listed in the target box on the Space Race track, move your marker to the new box.
+Para ello, juega una carta con un valor de puntos de Operaciones igual o mayor que el número que aparece en la pista a la que se intenta avanzar. Tira el dado: si el número cae dentro del rango indicado en la casilla objetivo del track de Carrera Espacial, mueve tu marcador a la nueva casilla.
 
-A player may only play 1 card per turn in an attempt to advance in the Space Race. Exception: Space Race Track Special Abilities and certain Events may alter this one-card limitation, or advance the superpower's marker on the Space Race track.
+Un jugador sólo puede jugar 1 carta por turno para intentar avanzar en la Carrera Espacial. Excepción: Las Habilidades Especiales de la Pista de la Carrera Espacial y ciertos Eventos pueden alterar esta limitación de una carta, o hacer avanzar el marcador de la superpotencia en la pista de la Carrera Espacial.
 
-Advancing along the Space Race track results in an award of Victory Points, a special ability, or both. Five boxes on the Space Race track are marked with two numbers divided by a slash, e.g. Lunar Orbit has the numbers 3/1.
+Avanzar por el circuito de la Carrera Espacial da como resultado la obtención de Puntos de Victoria, una habilidad especial, o ambas. Las cinco casillas del circuito de la Carrera Espacial están marcadas con dos números divididos por una barra, por ejemplo, Órbita Lunar tiene los números 3/1.
 
-The left-hand number is the number of Victory Points awarded to the first player to reach that box; the right-hand number is the number of Victory Points awarded to the second player to reach that box. Victory Points granted take effect immediately. All Space Race Victory Points are cumulative.
+El número de la izquierda es el número de Puntos de Victoria concedidos al primer jugador que llegue a esa casilla; el número de la derecha es el número de Puntos de Victoria concedidos al segundo jugador que llegue a esa casilla. Los Puntos de Victoria concedidos tienen efecto inmediato. Todos los Puntos de Victoria de la Carrera Espacial son acumulativos.
 
-Special abilities are granted only to the first player to reach the space. The special effect is immediately cancelled when the second player reaches that box.
+Las habilidades especiales se conceden sólo al primer jugador que alcanza la casilla. El efecto especial se cancela inmediatamente cuando el segundo jugador alcanza esa casilla.
 
-* Upon reaching space 2 (Animal in Space), the player is allowed to play two Space Race cards per turn (instead of the usual one).
-* Upon reaching space 4 (Man in Earth Orbit), the opposing player must select and reveal his or her Headline Event before the player with a 'Man in Earth Orbit' makes his/her Headline Event selection.
-* Upon reaching space 6 (Eagle/Bear has Landed), the player may discard their Held Card at the end of the turn
-* Upon reaching space 8 (Space Station), the player may play eight (8) Action Rounds per turn.
+* Al llegar a la casilla 2 (Animal en el Espacio), el jugador puede jugar dos cartas de Carrera Espacial por turno (en lugar de la habitual).
+* Al llegar a la casilla 4 (Hombre en órbita terrestre), el jugador contrario debe seleccionar y revelar su evento principal antes de que el jugador con un "Hombre en órbita terrestre" haga su selección de evento principal.
+* Al llegar a la casilla 6 (El Águila/Oso ha Aterrizado), el jugador puede descartar su Carta Guardada al final del turno.
+* Al llegar a la casilla 8 (Estación Espacial), el jugador puede jugar ocho (8) Rondas de Acción por turno.
 
-  The effects of these special abilities are immediate and cumulative.
+  Los efectos de estas habilidades especiales son inmediatos y acumulativos.
 
-> *Example:* The USSR player successfully reaches space 2. He may play a second Space Race Card during his next Action Round.
+*Ejemplo:* El jugador de la URSS alcanza con éxito el espacio 2. Puede jugar una segunda Carta de Carrera Espacial durante su siguiente Ronda de Acción.
 >
-> If the USSR player reached space 4 before the US player had reached space 2, the USSR player could play two Space Race cards per turn, and require the US Player to show his Headline Phase event before selecting his own.
+> Si el jugador de la URSS alcanzara el espacio 4 antes de que el jugador de EE.UU. hubiera alcanzado el espacio 2, el jugador de la URSS podría jugar dos cartas de Carrera Espacial por turno, y exigir al jugador de EE.UU. que mostrara su evento de la Fase de Cabecera antes de seleccionar el suyo.
 
-Regardless of text on the card, an Event discarded to make a die roll to advance on the Space Race track is not implemented.
+Independientemente del texto de la carta, un Evento descartado para hacer una tirada para avanzar en el registro de Carrera Espacial no se implementa.
 
-The card is placed in the discard pile.
+La carta se coloca en la pila de descartes.
 
-> **Design Note:** The Space Race is your 'safety valve.' If you hold a card whose Event is a good one for your opponent, and you don't want the Event to occur, you can dump it on the Space Race (provided it has enough Operations points to qualify for an attempt to move forward).
+> Nota de diseño: La Carrera Espacial es tu "válvula de seguridad". Si tienes una carta cuyo Evento es bueno para tu oponente, y no quieres que el Evento ocurra, puedes tirarla en la Carrera Espacial (siempre que tenga suficientes puntos de Operaciones para calificar para un intento de avanzar).
 
-If a player reaches the final box in the Space Race, no more cards may be expended in the Space Race by that player for the remainder of the game.
+Si un jugador llega a la casilla final de la Carrera Espacial, ese jugador no podrá gastar más cartas en la Carrera Espacial durante el resto de la partida.
 
-## Events
+## Eventos
 
-*"Do you, Ambassador Zorin, deny that the USSR has placed and is placing medium and intermediate range missiles and sites in Cuba? Yes or no? Don't wait for the translation! Yes or no?" -Adlai Stevenson, U.S. Ambassador to the United Nations*
+*"¿Niega usted, Embajador Zorin, que la URSS haya colocado y esté colocando misiles y emplazamientos de alcance medio e intermedio en Cuba? ¿Si o no? No espere a la traducción. ¿Si o no?" -Adlai Stevenson, embajador de Estados Unidos en las Naciones Unidas*
 
-A player may play a card as an Event instead of Operations. If the Event is associated with his or her own superpower, or is associated with both superpowers, it takes effect as directed by the card's text.
+Un jugador puede jugar una carta como Evento en lugar de Operaciones. Si el Evento está asociado con su propia superpotencia, o está asociado con ambas superpotencias, tiene efecto como indica el texto de la carta.
 
-The Southeast Asia Scoring card has an asterisk following the Event title, and is the only scoring card removed after play.
+La carta de Puntuación del Sudeste Asiático tiene un asterisco tras el título del Evento, y es la única carta de puntuación que se elimina tras el juego.
 
-**Permanent Events:** Some Event cards have an underlined title, e.g. Flower Power. This indicates that the effects of these Events last for the duration of the game. When such cards are played as Events, place them to the side of the map, or place their markers on the Turn Track, as a reminder of their ongoing effects.
+**Eventos Permanentes: Algunas cartas de Evento tienen un título subrayado, por ejemplo, Flower Power. Esto indica que los efectos de estos Eventos duran toda la partida. Cuando estas cartas se juegan como Eventos, colócalas a un lado del mapa, o coloca sus marcadores en el Indicador de Turno, como recordatorio de sus efectos en curso.
 
-Some event cards modify the Operations value of cards that follow. These modifiers should be applied in aggregate, and can modify 'The China Card'.
+Algunas cartas de evento modifican el valor de Operaciones de las cartas que les siguen. Estos modificadores deben aplicarse en conjunto, y pueden modificar "La Carta de China".
 
-> *Example:* The US player plays the Red Scare/Purge event during the Headline Phase. Ordinarily, all USSR cards would subtract one from their Operations value. However, for his Headline card, the USSR played Vietnam Revolts.
+> *Ejemplo:* El jugador de EE.UU. juega el evento "Red Scare/Purge" durante la Fase de Cabecera. Normalmente, todas las cartas de la URSS restarían uno de su valor de Operaciones. Sin embargo, para su carta de Titular, la URSS jugó Revueltas de Vietnam.
 >
-> This event gives the Soviet player +1 to all operations played in SE Asia. For his first play, the USSR chooses 'The China Card'. He plays all points in SE Asia for 5 operations points.
+> Este evento da al jugador soviético +1 a todas las operaciones jugadas en el SE de Asia. Para su primera jugada, la URSS elige "La Carta de China". Juega todos los puntos en el SE de Asia por 5 puntos de operaciones.
 >
-> This is modified by the Vietnam Revolts card, giving the USSR player 6 operation points. However, the US Red Scare/Purge card brings the total down to 5 operations points.
+> Esto es modificado por la carta "Vietnam Revolts", dando al jugador de la URSS 6 puntos de operación. Sin embargo, la carta "Red Scare/Purge" de EE.UU. reduce el total a 5 puntos de operaciones.
 
-Events modifying the Operations value of a card only apply to one player. The modifier is not transferable to their opponent by virtue of a card taken from their opponent's hand.
+Los eventos que modifican el valor de Operaciones de una carta sólo se aplican a un jugador. El modificador no es transferible a su oponente en virtud de una carta tomada de la mano de su oponente.
 
-> *Example:* The USSR player has played 'Brezhnev Doctrine' as an Event, and therefore receives a +1 Operations value modifier for all of his cards.
+> *Ejemplo:* El jugador de la URSS ha jugado "Doctrina Brezhnev" como Evento, y por tanto recibe un modificador de valor de Operaciones de +1 para todas sus cartas.
 >
-> If the US player steals one of his cards, for example by playing 'Grain Sales to the Soviets', the US player does not benefit from a +1 Operations value modifier on that card.Events modifying the Operations value of subsequently played cards do so for all purposes.
+> Si el jugador estadounidense roba una de sus cartas, por ejemplo jugando "Venta de Granos a los Soviéticos", el jugador estadounidense no se beneficia de un modificador de valor de Operaciones de +1 en esa carta.Los eventos que modifican el valor de Operaciones de las cartas jugadas posteriormente lo hacen a todos los efectos.
 >
-> *Example 1:* If the Soviet player has played 'Red Scare/Purge' on the US player, and the US player played a 2 Operations card for a Coup, the US player would only add 1 to his Coup roll for the value of the card, and would receive 1 point of the Required Military Operations track.
+> *Ejemplo 1:* Si el jugador soviético ha jugado "Red Scare/Purge" sobre el jugador estadounidense, y éste ha jugado una carta de Operaciones 2 para un Golpe, el jugador estadounidense sólo sumaría 1 a su tirada de Golpe por el valor de la carta, y recibiría 1 punto del registro de Operaciones Militares requeridas.
 >
-> *Example 2:* If the Soviet player played 'Brezhnev Doctrine' earlier in the turn, he could play a 1 Op card to make a required roll under 'Bear Trap'.
+> *Ejemplo 2:* Si el jugador soviético jugó "Doctrina Brezhnev" al principio del turno, podría jugar una carta de 1 de Operaciones para hacer una tirada requerida bajo "Trampa para osos".
 >
-> *Example 3:* If the US player played 'Containment' earlier in the turn, he could play 'CIA Created' subsequently and use 2 Ops.
+> Ejemplo 3: Si el jugador estadounidense jugó "Contención" al principio del turno, podría jugar "CIA Created" posteriormente y usar 2 Ops.
 
-If an Event becomes unplayable due to its cancellation or restriction by another Event card, the unplayable Event card may still be used for its Operations value.
+Si un Evento se vuelve injugable debido a su cancelación o restricción por otra carta de Evento, la carta de Evento injugable aún puede ser usada para su valor de Operaciones.
 
-**War Events:** There are 5 "War" Events in the deck: Korean War, Arab-Israeli War, Indo-Pakistani War, Brush War, and Iran-Iraq War.
+**Eventos de Guerra:** Hay 5 Eventos de "Guerra" en la baraja: Guerra de Corea, Guerra Árabe-Israelí, Guerra Indo-Pakistaní, Guerra de los Pinceles y Guerra Irán-Iraq.
 
-These Events may be played regardless of the absence of either player's influence points in either the attacking or defending countries. If there is no influence at risk in the war, the Event's player still receives victory points upon success, and required military operations irrespective of success.
+Estos Eventos pueden jugarse independientemente de la ausencia de puntos de influencia de cualquiera de los jugadores en los países atacantes o defensores. Si no hay influencia en riesgo en la guerra, el jugador del Evento sigue recibiendo puntos de victoria al tener éxito, y las operaciones militares requeridas independientemente del éxito.
 
-## Defcon Status and Military Operations
+## Estado de Defcon y Operaciones Militares
 
-*"Strange game. The only winning move is not to play". -"Joshua" the N.O.R.A.D computer from Wargames.*
+*"Juego extraño. La única jugada ganadora es no jugar". - "Joshua" el ordenador N.O.R.A.D de Wargames.
 
 ### The Defcon Track
 
-DEFCON status measures nuclear tension in the game. The DEFCON level begins the game at its maximum 'peace' level of 5. It can go down and back up due to events and actions by the players, but if, at any point, it decreases to 1, the game ends immediately.
+El estado DEFCON mide la tensión nuclear en el juego. El nivel de DEFCON comienza el juego en su nivel máximo de "paz" de 5. Puede bajar y volver a subir debido a eventos y acciones de los jugadores, pero si, en algún momento, disminuye a 1, el juego termina inmediatamente.
 
-The DEFCON status may never Improve above 5. Any event that would Improve the DEFCON status above 5 has no DEFCON effect.
+El estado de DEFCON nunca puede mejorar por encima de 5. Cualquier evento que mejore el estado de DEFCON por encima de 5 no tiene efecto de DEFCON.
 
-If DEFCON 1 status is reached, nuclear war breaks out and the game ends immediately. The phasing player is responsible for the status marker moving to DEFCON 1, and loses the game.
+Si se alcanza el estado de DEFCON 1, estalla la guerra nuclear y el juego termina inmediatamente. El jugador en fase es responsable de que el marcador de estado se mueva a DEFCON 1, y pierde la partida.
 
-> *Example:* The US player plays Olympic Games, and the DEFCON status is at 2. The USSR player boycotts the game. The DEFCON status is degraded to level 1, and nuclear war is triggered. The US player, as the phasing player, has lost.
+> *Ejemplo:* El jugador estadounidense juega los Juegos Olímpicos, y el estado DEFCON está en 2. El jugador de la URSS boicotea el juego. El estado de DEFCON se degrada al nivel 1, y se desencadena la guerra nuclear. El jugador estadounidense, como jugador en fase, ha perdido.
 
-Any Coup attempt in a Battleground country degrades the DEFCON status one level. The consequences of the DEFCON status levels are on the DEFCON Track, and are reproduced here:
+Cualquier intento de Golpe de Estado en un país del Campo de Batalla degrada el estado de DEFCON un nivel. Las consecuencias de los niveles de estado de DEFCON están en el Registro de DEFCON, y se reproducen aquí:
 
-* **Defcon 5:** No effect
-* **Defcon 4:** No Coup or Realignment rolls are permitted in Europe.
-* **Defcon 3:** No Coup or Realignment rolls are permitted in Europe or Asia.
-* **Defcon 2:** No Coup or Realignment rolls are permitted in Europe, Asia, or the Middle East.
-* **Defcon 1:** Game over. The player responsible for the status going to 1 (the Phasing Player) loses the game.
+* **Defcon 5:** Sin efecto
+* **Defcon 4:** No se permiten tiradas de Golpe de Estado ni de Realineación en Europa.
+**Defcon 3:** No se permiten tiradas de Golpe de Estado ni de Realización en Europa ni en Asia.
+**Defcon 2:** No se permiten tiradas de Golpe o Realización en Europa, Asia u Oriente Medio.
+**Defcon 1:** Se acabó el juego. El jugador responsable de que el estatus pase a 1 (el jugador en fase) pierde la partida.
 
 > ![](img/tsnuclearlevel.png)
 >
-> **Play Note:** Players may place a DEFCON Restriction marker in the region to serve as a reminder that no Realignment or Coups are permitted.
+> **Nota de juego:** Los jugadores pueden colocar un marcador de restricción de DEFCON en la región para que sirva de recordatorio de que no se permite la Realineación ni los Golpes de Estado.
 
-##### Improve Defcon Status Phase.
+##### Fase de Mejora del Estado de Defcon.
 
-At the beginning of any turn in which the DEFCON status is lower than 5, Improve the DEFCON status by 1.
+Al principio de cualquier turno en el que el estado de DEFCON sea inferior a 5, mejora el estado de DEFCON en 1.
 
-##### Improve & Degrade.
+##### Mejorar y Degradar.
 
-In all cases, when the rules or cards indicate to 'improve' the DEFCON status, this means to move the DEFCON marker to a higher DEFCON number, while 'degrade' means to move the DEFCON marker to a lower DEFCON number.
+En todos los casos, cuando las reglas o las cartas indican "mejorar" el estado de DEFCON, esto significa mover el marcador de DEFCON a un número de DEFCON más alto, mientras que "degradar" significa mover el marcador de DEFCON a un número de DEFCON más bajo.
 
-### Required Military Operations
+### Operaciones Militares Requeridas
 
-*"Restraint? Why are you so concerned with saving their lives? The whole idea is to kill the bastards. At the end of the war, if there are two Americans and one Russian left alive, we win". -Gen. Thomas Power, U.S. Strategic Air Command*
+*"¿Restricción? ¿Por qué te preocupa tanto salvar sus vidas? La idea es matar a los bastardos. Al final de la guerra, si quedan dos americanos y un ruso vivos, ganamos". -Gen. Thomas Power, Mando Aéreo Estratégico de EE.UU.
 
 ![](img/tsrequiredoperations.png)
 
-By the end of each turn, each player must have played a certain number of Military Operations. Failure to do so gives Victory Points to your opponent.
+Al final de cada turno, cada jugador debe haber jugado un cierto número de Operaciones Militares. Si no lo hace, dará puntos de victoria a su oponente.
 
-The number of Military Operations required each turn is equal to the current DEFCON status number. If fewer Military Operations are carried out, the opponent gains 1 VP per unplayed Military Operations point.
+El número de Operaciones Militares necesarias en cada turno es igual al número de estado DEFCON actual. Si se realizan menos Operaciones Militares, el oponente gana 1 PV por punto de Operaciones Militares no jugado.
 
-> *Example:* At the end of the turn the US player has spent two points in Military Operations. If the DEFCON level is currently at 4 the USSR player would gain 2 Victory Points.
+> *Ejemplo:* Al final del turno el jugador estadounidense ha gastado dos puntos en Operaciones Militares. Si el nivel de DEFCON está actualmente en 4 el jugador de la URSS ganaría 2 Puntos de Victoria.
 
-Coup attempts and war events are Military Operations. Realignment Rolls are not considered Military Operations.
+Los intentos de golpe y los eventos de guerra son Operaciones Militares. Las tiradas de realineación no se consideran operaciones militares.
 
-When Operations points are played in a Coup attempt, or when a War Event card is played (e.g., Arab-Israeli War, Korean War, etc)., the phasing player moves his marker on the Military Operations track a number of spaces equal to the Operations value of the card.
+Cuando se juegan puntos de Operaciones en un intento de Golpe, o cuando se juega una carta de Evento de Guerra (por ejemplo, Guerra Árabe-Israelí, Guerra de Corea, etc), el jugador en fase mueve su marcador en el registro de Operaciones Militares un número de espacios igual al valor de Operaciones de la carta.
 
-If a player uses a card for Operations points, and thereby triggers a War Event associated with his opponent, his opponent's Military marker is moved on the Military Operations track as directed by the Event text.
+Si un jugador usa una carta para obtener puntos de Operaciones, y por lo tanto desencadena un Evento de Guerra asociado con su oponente, el marcador Militar de su oponente se mueve en el registro de Operaciones Militares como se indica en el texto del Evento.
 
-> *Example:* The US player uses the 'Arab-Israeli War' card for Operations points, thereby also triggering the War Event (as it is associated with the Soviet Union player).
+> Ejemplo: El jugador de EE.UU. usa la carta "Guerra Árabe-Israelí" para obtener puntos de Operaciones, activando así el Evento de Guerra (ya que está asociado con el jugador de la Unión Soviética).
 >
-> In addition to the Event taking place as directed on the card, the USSR player moves his Military Operations marker two spaces on the Military Operations track.
+> Además de que el Evento tenga lugar como se indica en la carta, el jugador de la URSS mueve su marcador de Operaciones Militares dos espacios en el registro de Operaciones Militares.
 
-Events that allow a free Coup roll do not count towards required Military Operations.
+Los eventos que permiten una tirada de Golpe de Estado gratuita no cuentan para las Operaciones Militares requeridas.
 
 ## China
 
 ![](img/tschinacard.png)
 
-China's role in the Cold War is abstracted through 'The China Card'. Either player may play 'The China Card' as if it were part of his regular hand. 'The China Card' does not count towards the hand limit.
+El papel de China en la Guerra Fría se abstrae a través de la "Carta de China". Cualquier jugador puede jugar la "Carta de China" como si fuera parte de su mano normal. La "Carta de China" no cuenta para el límite de la mano.
 
-Every play of 'The China Card' counts as one of the Actions (6 or 7) that a player is permitted during a turn. As a result, players may have more cards left in their hand than usual, if 'The China Card' is played.
+Cada jugada de "La Carta de China" cuenta como una de las Acciones (6 o 7) que un jugador tiene permitidas durante un turno. Como resultado, los jugadores pueden tener más cartas en su mano de lo normal, si se juega "La Carta de China".
 
-When 'The China Card' is played, it is immediately handed to your opponent face down. It may not be played again by your opponent this turn. At the end of the turn, it is flipped face up, ready for your opponent to play.
+Cuando se juega la "Carta de China", se entrega inmediatamente a tu oponente boca abajo. No puede ser jugada de nuevo por tu oponente en este turno. Al final del turno, se pone boca arriba, lista para que su oponente la juegue.
 
-If 'The China Card' is passed as a result of an Event, the card is passed face up and may be played by the new owning player during the same turn.
+Si "La Carta de China" se pasa como resultado de un Evento, la carta se pasa boca arriba y puede ser jugada por el nuevo jugador propietario durante el mismo turno.
 
-The China Card' may not be played:
+La Carta de China no puede ser jugada
 
-* during the Headline Phase,
-* if it prevents the play of a Scoring card, or
-* as a discard required by an Event.
+* durante la Fase de Cabecera,
+* si impide el juego de una carta de puntuación, o
+* como un descarte requerido por un Evento.
 
-To receive the bonus +1 Operations point indicated on 'The China Card', all of the Operations Points on the card must be spent in Asia (including Southeast Asia).
+Para recibir la bonificación de +1 punto de Operaciones indicada en la "Carta de China", todos los Puntos de Operaciones de la carta deben gastarse en Asia (incluyendo el Sudeste Asiático).
 
-The Operations Point value of 'The China Card' may be modified by other Event Cards.
+El valor de Puntos de Operaciones de la "Carta de China" puede ser modificado por otras Cartas de Evento.
 
-Play of 'The China Card' can never be compelled by events or a shortage of cards during the action rounds.
+El juego de la "Carta de China" nunca puede ser obligado por eventos o escasez de cartas durante las rondas de acción.
 
-## End of the Game
+## Fin del juego
 
 ![](img/tseuropepuntuation.png)
 
-The object of the game is to score Victory Points (VPs). Regional Victory Points are scored through geographic Influence over the six Regions.
+El objetivo del juego es conseguir Puntos de Victoria (PV). Los puntos de victoria regionales se consiguen mediante la influencia geográfica sobre las seis regiones.
 
-VPs can also be received through the play of certain Events. Each region has its own 'scoring card'.
+Los puntos de victoria también pueden obtenerse mediante el juego de ciertos eventos. Cada región tiene su propia "carta de puntuación".
 
-Playing a scoring card causes Victory Points to be scored, based on how much influence each superpower has in that region at the time the card is played.
+Jugar una carta de puntuación hace que se obtengan Puntos de Victoria, en función de la influencia que cada superpotencia tenga en esa región en el momento de jugar la carta.
 
-> **Play Note:** Trying to play scoring cards to coincide with your superpower's peak influence in a region is often a crucial factor in winning the game.
+> Nota de juego: Intentar jugar las cartas de puntuación para que coincidan con el pico de influencia de tu superpotencia en una región suele ser un factor crucial para ganar la partida.
 
-### Scoring
+### Puntuación
 
-The following terms are used during Regional Scoring: Presence: A superpower has Presence in a Region if it Controls at least one country in that Region.
+Los siguientes términos se utilizan durante la puntuación regional: Presencia: Una superpotencia tiene Presencia en una Región si controla al menos un país en esa Región.
 
-**Domination:** A superpower achieves Domination of a Region if it Controls more countries in that Region than its opponent, and it Controls more Battleground countries in that Region than its opponent.
+**Dominación:** Una superpotencia consigue la Dominación de una Región si controla más países en esa Región que su oponente, y controla más países del Campo de Batalla en esa Región que su oponente.
 
-A superpower must Control at least one non-Battleground and one Battleground country in a Region in order to achieve Domination of that Region.
+Una superpotencia debe controlar al menos un país que no sea campo de batalla y un país que sea campo de batalla en una región para conseguir la dominación de esa región.
 
-**Control:** A superpower has Control of a Region if it Controls more countries in that Region than its opponent, and Controls all of the Battleground countries in that Region.
+**Control: Una superpotencia tiene el control de una región si controla más países en esa región que su oponente, y controla todos los países del campo de batalla en esa región.
 
-Players score additional points during Regional Scoring, as follows:
+Los jugadores obtienen puntos adicionales durante la puntuación regional, como sigue:
 
-* +1 VP per country they Control in the scoring region that is adjacent to the enemy superpower
-* +1 VP per Battleground country that they Control in the scoring region.
-* Victory points are then cumulated for both players, and the net difference between the two scores is marked on the Victory Point Track.
++1 VP por cada país que controlen en la región puntuable que esté adyacente a la superpotencia enemiga.
++1 punto de victoria por cada país del campo de batalla que controlen en la región puntuable.
+* Los puntos de victoria se acumulan para ambos jugadores, y la diferencia neta entre las dos puntuaciones se marca en el Registro de Puntos de Victoria.
 
-> *Example:* The USSR plays the Central American Scoring card. The USSR controls Cuba, Haiti and the Dominican Republic. The United States controls Guatemala, and has 1 point of influence in Panama.
+> *Ejemplo:* La URSS juega la carta de puntuación de América Central. La URSS controla Cuba, Haití y la República Dominicana. Estados Unidos controla Guatemala y tiene 1 punto de influencia en Panamá.
 >
-> The USSR player would therefore get points for Dominating Central America (3 VPs) + 1 VP for control of a battleground country (Cuba). +1 VP for Cuba's being adjacent to your opponent's home nation for a total of 5 VPs.
+> El jugador de la URSS obtendría, por tanto, puntos por dominar Centroamérica (3 PV) + 1 PV por el control de un país de batalla (Cuba). +1 VP por ser Cuba adyacente a la nación de su oponente para un total de 5 VP.
 >
-> The United States would receive 1 VP for presence in Central America since he controls Guatemala. Since the United States only has 1 Influence point in Panama, he does not control it, and therefore controls no battleground countries.
+> Estados Unidos recibiría 1 VP por presencia en Centroamérica ya que controla Guatemala. Como Estados Unidos sólo tiene 1 punto de Influencia en Panamá, no lo controla, y por lo tanto no controla ningún país campo de batalla.
 >
-> That is why the USSR player scores Dominance points. He controls more battleground countries (Cuba) and more countries overall. He also meets the "at least one non-battleground country" test through control of either Haiti or the Dominican Republic.
+> Por eso el jugador de la URSS obtiene puntos de Dominio. Controla más países del campo de batalla (Cuba) y más países en general. También cumple la prueba de "al menos un país que no sea campo de batalla" mediante el control de Haití o la República Dominicana.
 >
-> Having calculated relative victory points, 5 VPs for the USSR, and 1 VP for the US, you subtract the US VPs from the Soviets, and move the VP point track a net 4 spaces toward Soviet victory.
+> Habiendo calculado los puntos de victoria relativos, 5 PV para la URSS y 1 PV para los EE.UU., restas los PV de los EE.UU. a los soviéticos, y mueves el contador de puntos de PV 4 espacios netos hacia la victoria soviética.
 
-Playing certain card Events may result in Victory Points being scored. Victory Points may be scored due to your opponent's failure to perform the number of required military operations during the turn.
+Jugar ciertos eventos de cartas puede resultar en la obtención de Puntos de Victoria. Se pueden anotar Puntos de Victoria debido a que tu oponente no realice el número de operaciones militares requeridas durante el turno.
 
-A player may not be forced to Hold a Scoring Card through the effects of an Event(s).
+Un jugador no puede ser forzado a Mantener una Carta de Puntuación a través de los efectos de un Evento(s).
 
-### The Victory Point Track
+### El Registro de Puntos de Victoria
 
-The Victory Point Track shows a range of scoring possibilities from US-20 (US automatic victory) to USSR-20 (USSR automatic victory).
+El Registro de Puntos de Victoria muestra un rango de posibilidades de puntuación desde US-20 (victoria automática de EEUU) hasta USSR-20 (victoria automática de la URSS).
 
-At the start of the game, place the VP marker in the center of the chart, on the box marked At Start. This box represents zero points, or total equilibrium of the two sides. This box should be counted as a space when players' scores are adjusted.
+Al inicio de la partida, se coloca el marcador de PV en el centro de la tabla, en la casilla marcada como At Start. Esta casilla representa cero puntos, o el equilibrio total de los dos bandos. Esta casilla debe contarse como un espacio cuando se ajusten las puntuaciones de los jugadores.
 
-> **Example:** If the scoring marker is on the USSR-1 box, and the US player scores 2 VPs, the marker should move 2 spaces to the US-1 box.
+> **Ejemplo:** Si el marcador de puntuación está en la casilla URSS-1, y el jugador estadounidense anota 2 PV, el marcador debe moverse 2 espacios a la casilla EEUU-1.
 
-Wherever a card states that the player 'gains' a Victory Point, this means that the VP marker is moved that many spaces in that player's favor, i.e., if the VP marker is on the 10 space (US winning) and the USSR player gains 2 VP, the marker is moved to the 8 space on the VP track.
+Siempre que una carta indique que el jugador "gana" un Punto de Victoria, esto significa que el marcador de PV se mueve esa cantidad de espacios a favor de ese jugador, es decir, si el marcador de PV está en la casilla 10 (ganando EEUU) y el jugador de la URSS gana 2 PV, el marcador se mueve a la casilla 8 del registro de PV.
 
-If both players earn Victory Points from the same card or Event play, apply only the difference in Victory Points awarded.
+Si ambos jugadores ganan Puntos de Victoria por la misma carta o evento jugado, aplica sólo la diferencia de Puntos de Victoria otorgados.
 
-* #### Automatic Victory.
+* #### Victoria automática.
 
-  There are several ways to achieve an automatic victory in Twilight Struggle:
+  Hay varias formas de conseguir una victoria automática en Twilight Struggle:
 
-  * The instant one player reaches a score of 20 VP, the game is over and that player is the winner. NOTE: All VP awards (for both players) that are scored during an event or scoring card must be applied prior to determining automatic victory.
-  * If either side Controls Europe, that side wins when the Europe Scoring card is played.
-  * Nuclear War: A player may also win the instant his opponent causes the DEFCON level to reach 1.
-* #### End Game Victory
+  * El instante en que un jugador alcanza una puntuación de 20 VP, la partida termina y ese jugador es el ganador. NOTA: Todos los premios de VP (para ambos jugadores) que se anoten durante un evento o carta de puntuación deben aplicarse antes de determinar la victoria automática.
+  * Si cualquiera de los bandos controla Europa, ese bando gana cuando se juega la carta de puntuación de Europa.
+  * Guerra Nuclear: Un jugador también puede ganar en el instante en que su oponente hace que el nivel de DEFCON llegue a 1.
+* #### Victoria al final de la partida
 
-  If neither side has achieved victory of any kind by the end of turn 10, then every Region is scored as if its regional scoring card had just been played (these new VPs are added to the current score).
+  Si ningún bando ha conseguido la victoria de ningún tipo al final del turno 10, entonces cada Región se puntúa como si su carta de puntuación regional se acabara de jugar (estos nuevos PV se añaden a la puntuación actual).
 
-  Southeast Asia is not scored separately: it is included in the Asia scoring calculations.
+  El Sudeste Asiático no se puntúa por separado: se incluye en los cálculos de puntuación de Asia.
 
-  Every Region's score must be calculated before final victory is determined. Reaching 20 VPs does not result in Automatic Victory during scoring at the end of turn 10; however, Control of Europe does grant automatic victory to the controlling player, regardless of scoring elsewhere.
+  La puntuación de cada región debe calcularse antes de determinar la victoria final. Alcanzar 20 PV no da lugar a la Victoria Automática durante la puntuación al final del turno 10; sin embargo, el Control de Europa otorga la victoria automática al jugador que la controla, independientemente de la puntuación en otros lugares.
 
-  Once all regions have been scored, victory goes to the player who has accrued most VPs.
+  Una vez que todas las regiones han sido puntuadas, la victoria es para el jugador que ha acumulado más PV.
 
-  If the VP marker is on a positive number, the US wins; if the VP marker is on a negative number, the USSR wins. If the VP marker is on zero, the game ends in a draw.
+  Si el marcador de PV está en un número positivo, gana Estados Unidos; si el marcador de PV está en un número negativo, gana la URSS. Si el marcador de VP está en cero, el juego termina en un empate.
 
-> ### Designer Optional Rules
+> ### Reglas opcionales del diseñador
 >
-> These rules were also playtested by the designers during the development of Twilight Struggle, but for various reasons were dropped by the wayside on the road to publication.
+> Estas reglas también fueron probadas por los diseñadores durante el desarrollo de Twilight Struggle, pero por diversas razones se dejaron de lado en el camino hacia la publicación.
 >
-> Players seeking some variety in the play of the game may find these rules interesting and worthwhile. Tournament GMs are welcome to incorporate some or all of these rules into their tournaments, provided notice is given to players.
+> Los jugadores que busquen algo de variedad en el juego pueden encontrar estas reglas interesantes y valiosas. Los GMs de torneos son bienvenidos a incorporar algunas o todas estas reglas en sus torneos, siempre que se avise a los jugadores.
 >
-> #### REALIGNMENT ROLLS
+> > #### TIRADAS DE REALINEACIÓN
 >
-> We tried many variations on the rules for Realignments. One of the great design challenges in TS was figuring out a simple system to handle superpower-directed political change that wasn't violent enough to count as a Coup attempt.
+> Intentamos muchas variaciones en las reglas para los Realineamientos. Uno de los grandes retos de diseño en la ST fue encontrar un sistema sencillo para manejar el cambio político dirigido por una superpotencia que no fuera lo suficientemente violento como para contar como un intento de Golpe.
 >
-> We are happy with the rules we arrived with, but if players wish to see some of the other paths we tried, here they are. They can be played with separately or all together.
+> Estamos contentos con las reglas a las que llegamos, pero si los jugadores desean ver algunos de los otros caminos que probamos, aquí están. Se puede jugar con ellas por separado o todas juntas.
 >
-> Realignment rolls are not subject to geographic DEFCON restrictions. That is, countries in any regions may be targeted for Realignment rolls regardless of the current DEFCON level. The phasing player may not lose Influence in a country targeted for Realignment.
+> Las tiradas de realineación no están sujetas a restricciones geográficas de DEFCON. Es decir, los países de cualquier región pueden ser objetivo de las tiradas de Realineación independientemente del nivel actual de DEFCON. El jugador que realiza la tirada no puede perder Influencia en un país que sea objetivo de Realización.
 >
-> Operations points may be used to purchase both Influence markers and Realignment rolls, at normal costs, but Influence markers may not be placed in a country already targeted with a Realignment roll during the current action round, and Realignment rolls may not be targeted at countries that have had Influence markers placed in them during the current action round.
+> Los puntos de operaciones pueden usarse para comprar tanto marcadores de influencia como tiradas de realineación, a un coste normal, pero los marcadores de influencia no pueden colocarse en un país que ya haya sido objeto de una tirada de realineación durante la ronda de acción actual, y las tiradas de realineación no pueden dirigirse a países en los que se hayan colocado marcadores de influencia durante la ronda de acción actual.
 >
-> #### THE SPACE RACE
+> #### LA CARRERA ESPACIAL
 >
-> A player who "dumps" a card on the Space Race may, at his choice, elect not to roll the die (thus forgoing any chance of advancing on the track).
+> Un jugador que "tira" una carta en la Carrera Espacial puede, a su elección, optar por no tirar el dado (renunciando así a cualquier posibilidad de avanzar en la pista).
