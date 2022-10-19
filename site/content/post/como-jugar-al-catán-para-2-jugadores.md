@@ -1,5 +1,5 @@
 ---
-title: Jugar al Catán para 2 jugadores
+title: Como jugar al Catán para 2 jugadores
 date: 2022-10-17T12:50:40.299Z
 description: ¿Quieres aprender a jugar al Catán para 2 jugadores? Esta es tu
   web, vamos a explicarte de forma sencilla Catán para 2 jugadores.
