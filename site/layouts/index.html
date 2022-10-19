@@ -8,12 +8,6 @@
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Ver más" "buttonLink" "/juegos-de-mesa-para-ninos") }}
 
-<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-    {{ range first 4 (where .Data.Pages "Type" "post") }}
-    <div class="ph1-ns w-50-ns flex">
-        {{ .Render "li" }}
-    </div>
-    {{ end }}
-</div>
+{{ partial "blog" . }}
 
 {{ end }}
