@@ -178,7 +178,7 @@ Durante el Torneo o el juego competitivo, ambos jugadores deben revelar cualquie
 
 Dado que esto resta algunos elementos de secreto en el juego, no es necesario usar esta regla en un entorno no competitivo.
 
-#### G. Voltear la Carta China
+#### G. Voltear la Carta de China
 
 Si *La Carta de China* se pasó boca abajo durante el turno, dale la vuelta ahora boca arriba.
 
@@ -250,9 +250,9 @@ Si el estado de control de un país cambia mientras se colocan los marcadores de
 >
 > ![](img/tscontrolexplanaition.png)
 >
-> *Example:* The US player controls Turkey and Greece and the USSR player controls Syria and Lebanon. Neither player controls Romania and Bulgaria
+> *Ejemplo:* El jugador estadounidense controla Turquía y Grecia y el jugador de la URSS controla Siria y Líbano. Ningún jugador controla Rumanía y Bulgaria
 
-Influence markers may be placed in multiple regions and multiple countries up to the number of Operations Points on the card played.
+Los marcadores de influencia pueden colocarse en varias regiones y varios países hasta el número de Puntos de Operaciones de la carta jugada.
 
 > ![](img/tscontrolplacement.png)
 >
