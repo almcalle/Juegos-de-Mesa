@@ -19,17 +19,19 @@ games:
     ages: A partir de 10 años
     players: 2-4
     duration: "20 minutos "
-  - heading: Animal sobre animal
-    imageUrl: img/animalsobreanimal.jpg
-    text: >-
-      Este juego de mesa para niños consiste en equilibrar con cuidado animales
-      grandes de madera de colores sobre la espalda de un cocodrilo. Los
-      jugadores tiran un dado para averiguar su próximo movimiento y
-       ganan si se deshacen primero de todos sus animales. El truco es que si algún animal se cae de la pila mientras estás colocando uno, tienes que cogerlo, cosa que no quieres.
-    link: https://amzn.to/3VKFMeX
-    duration: 15 minutos
-    players: 2-4
-    ages: A partir de 4 años
+  - link: https://amzn.to/3s4hMFM
+    heading: Rhino Hero
+    text: Un juego de apilamiento de cartas que ofrece el reto del Jenga, los
+      jugadores de Rhino Hero utilizan las cartas para crear paredes y tejados
+      para un edificio compartido, todo ello mientras intentan no derribarlo.
+      Además, un rinoceronte superhéroe de madera se desplaza por el edificio de
+      una planta a otra. Todo el mundo se siente como en una película
+      compartida, cada jugador se turna para mover al héroe por el escenario,
+      hasta que alguien se descuida y destruye el edificio.
+    players: 2-5
+    duration: 5 a 15 minutos
+    ages: A partir de 5 años
+    imageUrl: img/rhinohero.jpg
   - text: >+
       Es probable que reconozcas Minecraft: Builders & Biomes por el popular
       juego de ordenador que lo inspiró. Se extraen recursos, se construyen
@@ -70,19 +72,32 @@ games:
     ages: A partir de 7 años
     players: "2"
     duration: 10 minutos
-  - link: https://amzn.to/3s4hMFM
-    heading: Rhino Hero
-    text: Un juego de apilamiento de cartas que ofrece el reto del Jenga, los
-      jugadores de Rhino Hero utilizan las cartas para crear paredes y tejados
-      para un edificio compartido, todo ello mientras intentan no derribarlo.
-      Además, un rinoceronte superhéroe de madera se desplaza por el edificio de
-      una planta a otra. Todo el mundo se siente como en una película
-      compartida, cada jugador se turna para mover al héroe por el escenario,
-      hasta que alguien se descuida y destruye el edificio.
-    players: 2-5
-    duration: 5 a 15 minutos
-    ages: A partir de 5 años
-    imageUrl: img/rhinohero.jpg
+  - link: https://amzn.to/3yTr9ff
+    text: 'En este juego de mesa, los jugadores trabajan juntos para defender su
+      escuela de hordas de zombis, según Barnes. Dijo que es un gran juego para
+      "mostrar a los niños el valor de escuchar a los demás y evaluar las
+      situaciones para determinar los mejores resultados para todos". También es
+      un juego "heredado", lo que significa que puedes desbloquear personajes y
+      otros contenidos para futuras partidas cada vez que juegues. Disponible en
+      versiones para niños y adolescentes, Zombie Kidz: Evolution está muy bien
+      valorado, con una puntuación media de 4,8 estrellas en más de 500
+      opiniones en Amazon.'
+    heading: Zombie Kidz Evolution
+    imageUrl: img/zombiekidz.jpg
+    ages: A partir de 7
+    players: 2-4
+    duration: 5-15 minutos
+  - heading: Animal sobre animal
+    imageUrl: img/animalsobreanimal.jpg
+    text: >-
+      Este juego de mesa para niños consiste en equilibrar con cuidado animales
+      grandes de madera de colores sobre la espalda de un cocodrilo. Los
+      jugadores tiran un dado para averiguar su próximo movimiento y
+       ganan si se deshacen primero de todos sus animales. El truco es que si algún animal se cae de la pila mientras estás colocando uno, tienes que cogerlo, cosa que no quieres.
+    link: https://amzn.to/3VKFMeX
+    duration: 15 minutos
+    players: 2-4
+    ages: A partir de 4 años
   - link: https://amzn.to/3TsUlBE
     heading: ¡Aventureros al Tren! Europa
     text: En Ticket to Ride, los jugadores conectan ciudades con vías de tren, e
@@ -94,6 +109,19 @@ games:
     players: 2-5
     duration: 30 a 60 minutos
     imageUrl: img/aventurerosaltren.jpg
+  - link: https://amzn.to/3s86sIG
+    heading: Zingo
+    text: Zingo es una divertida versión del clásico bingo en la que los niños
+      obtienen una ficha que coincide con una casilla de sus respectivos
+      tableros. El primero que cubra su tablero con fichas iguales grita
+      "¡Zingo!". Es una buena práctica para los prelectores y los primeros
+      lectores, ya que cada ficha está representada por un dibujo. El juego ha
+      ganado múltiples premios, entre ellos el Oppenheim Toy Portfolio Gold Seal
+      Award 2002 y el ASTRA Best Toys for Kids Award 2011.
+    ages: A parti de 4 años
+    players: 2-7
+    duration: 5 minutos
+    imageUrl: img/zingo.jpg
   - link: https://amzn.to/3ewN6tT
     heading: Lama Party
     text: Otro de los nominados al Spiel Des Jahres 2022, este juego de cartas
@@ -108,6 +136,29 @@ games:
     duration: 20 minutos
     ages: A partir de 8
     imageUrl: img/llama.jpg
+  - heading: Yeti en mi Espagueti
+    link: https://amzn.to/3yQZAmY
+    text: 'Yeti in My Spaghetti tiene mucho de lo que puede captar la atención de un
+      niño pequeño: una premisa divertida, reglas fáciles de seguir y comida de
+      mentira. En el juego los jugadores deben mover los "fideos de pasta" sin
+      que el yeti caiga en el bol. Puede mantener a los niños ocupados sin que
+      les lleve demasiado tiempo: podrán jugar varias rondas en una hora.'
+    imageUrl: img/yetiinmyspaguetti.jpg
+    ages: A partir de 4 años
+    players: Más de 2
+    duration: 15 minutos
+  - heading: The mind
+    text: "The Mind es un juego en el que todos los jugadores intentan descartar las
+      cartas numeradas de su mano en orden ascendente en una pila de descarte
+      compartida, pero no puedes hablar ni dar pistas sobre las cartas de tu
+      mano. Las cartas van del 1 al 100, y la estrategia consiste en jugar la
+      carta que creas que es la más baja de la ronda: si nadie tiene un número
+      más bajo que la carta que has jugado, ganas esa ronda."
+    link: https://amzn.to/3MI0eJ6
+    ages: A partir de 8
+    players: 2-4
+    duration: 20 minutos
+    imageUrl: img/themind.jpg
   - heading: Cascadia
     text: Uno de los ganadores del Spiel Des Jahres de este año (el premio más
       importante del mundo del juego) es este juego de colocación de fichas con
@@ -167,55 +218,4 @@ games:
     players: 2-6
     duration: 20 minutos
     imageUrl: img/magicmountain.jpg
-  - heading: The mind
-    text: "The Mind es un juego en el que todos los jugadores intentan descartar las
-      cartas numeradas de su mano en orden ascendente en una pila de descarte
-      compartida, pero no puedes hablar ni dar pistas sobre las cartas de tu
-      mano. Las cartas van del 1 al 100, y la estrategia consiste en jugar la
-      carta que creas que es la más baja de la ronda: si nadie tiene un número
-      más bajo que la carta que has jugado, ganas esa ronda."
-    link: https://amzn.to/3MI0eJ6
-    ages: A partir de 8
-    players: 2-4
-    duration: 20 minutos
-    imageUrl: img/themind.jpg
-  - heading: Yeti en mi Espagueti
-    link: https://amzn.to/3yQZAmY
-    text: 'Yeti in My Spaghetti tiene mucho de lo que puede captar la atención de un
-      niño pequeño: una premisa divertida, reglas fáciles de seguir y comida de
-      mentira. En el juego los jugadores deben mover los "fideos de pasta" sin
-      que el yeti caiga en el bol. Puede mantener a los niños ocupados sin que
-      les lleve demasiado tiempo: podrán jugar varias rondas en una hora.'
-    imageUrl: img/yetiinmyspaguetti.jpg
-    ages: A partir de 4 años
-    players: Más de 2
-    duration: 15 minutos
-  - link: https://amzn.to/3s86sIG
-    heading: Zingo
-    text: Zingo es una divertida versión del clásico bingo en la que los niños
-      obtienen una ficha que coincide con una casilla de sus respectivos
-      tableros. El primero que cubra su tablero con fichas iguales grita
-      "¡Zingo!". Es una buena práctica para los prelectores y los primeros
-      lectores, ya que cada ficha está representada por un dibujo. El juego ha
-      ganado múltiples premios, entre ellos el Oppenheim Toy Portfolio Gold Seal
-      Award 2002 y el ASTRA Best Toys for Kids Award 2011.
-    ages: A parti de 4 años
-    players: 2-7
-    duration: 5 minutos
-    imageUrl: img/zingo.jpg
-  - link: https://amzn.to/3yTr9ff
-    text: 'En este juego de mesa, los jugadores trabajan juntos para defender su
-      escuela de hordas de zombis, según Barnes. Dijo que es un gran juego para
-      "mostrar a los niños el valor de escuchar a los demás y evaluar las
-      situaciones para determinar los mejores resultados para todos". También es
-      un juego "heredado", lo que significa que puedes desbloquear personajes y
-      otros contenidos para futuras partidas cada vez que juegues. Disponible en
-      versiones para niños y adolescentes, Zombie Kidz: Evolution está muy bien
-      valorado, con una puntuación media de 4,8 estrellas en más de 500
-      opiniones en Amazon.'
-    heading: Zombie Kidz Evolution
-    imageUrl: img/zombiekidz.jpg
-    ages: A partir de 7
-    players: 2-4
-    duration: 5-15 minutos
 ---
