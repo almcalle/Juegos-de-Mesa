@@ -132,4 +132,15 @@ games:
     players: 2-6
     duration: 20 minutos
     imageUrl: img/magicmountain.jpg
+  - heading: Carcassonne Junior
+    link: https://amzn.to/3MJyOTd
+    text: La versión para niños del popular juego de colocación de fichas
+      Carcassonne, Mi primer Carcassonne hace que los jugadores coloquen fichas
+      para construir una ciudad y crear una red de calles, casas y espacios
+      verdes. Es un juego sencillo, tipo rompecabezas, con una suave competición
+      y una satisfactoria sensación de crear un pueblo con otros jugadores.
+    ages: a partir de 4 años
+    players: 2-4
+    duration: 10 a 20 minutos
+    imageUrl: img/carcassonnejunior.jpg
 ---
