@@ -46,6 +46,54 @@ games:
     ages: A partir de 10 años
     players: 2-4
     duration: 30 a 60 minutos
+  - heading: Carcassonne Junior
+    link: https://amzn.to/3MJyOTd
+    text: La versión para niños del popular juego de colocación de fichas
+      Carcassonne, Mi primer Carcassonne hace que los jugadores coloquen fichas
+      para construir una ciudad y crear una red de calles, casas y espacios
+      verdes. Es un juego sencillo, tipo rompecabezas, con una suave competición
+      y una satisfactoria sensación de crear un pueblo con otros jugadores.
+    ages: a partir de 4 años
+    players: 2-4
+    duration: 10 a 20 minutos
+    imageUrl: img/carcassonnejunior.jpg
+  - heading: A Game of Cat and Mouth
+    text: A Game of Cat and Mouth en un juego para dos jugadores que es "como jugar
+      al ping pong", pero en una mesa normal. Los jugadores deben utilizar una
+      "pata de gato" magnética para lanzar una bola amarilla a través de la boca
+      del gato hacia el lado del tablero del oponente. Los jugadores ganan la
+      ronda cuando se deshacen de todas las bolas del tablero. Cada ronda dura
+      menos de un minuto, pero el nivel de emoción se dispara al intentar
+      deshacerse de las últimas bolas.
+    imageUrl: img/gameofcatandmouth.jpg
+    link: https://amzn.to/3eupKVw
+    ages: A partir de 7 años
+    players: "2"
+    duration: 10 minutos
+  - link: https://amzn.to/3s4hMFM
+    heading: Rhino Hero
+    text: Un juego de apilamiento de cartas que ofrece el reto del Jenga, los
+      jugadores de Rhino Hero utilizan las cartas para crear paredes y tejados
+      para un edificio compartido, todo ello mientras intentan no derribarlo.
+      Además, un rinoceronte superhéroe de madera se desplaza por el edificio de
+      una planta a otra. Todo el mundo se siente como en una película
+      compartida, cada jugador se turna para mover al héroe por el escenario,
+      hasta que alguien se descuida y destruye el edificio.
+    players: 2-5
+    duration: 5 a 15 minutos
+    ages: A partir de 5 años
+    imageUrl: img/rhinohero.jpg
+  - link: https://amzn.to/3TsUlBE
+    heading: ¡Aventureros al Tren! Europa
+    text: En Ticket to Ride, los jugadores conectan ciudades con vías de tren, e
+      impiden que otros hagan lo mismo. La magia de Ticket to Ride es que puedes
+      jugarlo de forma casual, centrándote solo en tus propias líneas de
+      ferrocarril, o de forma despiadada, en la que intentas sabotear a otros
+      jugadores en sus esfuerzos por conectar ciudades.
+    ages: A partir de 8 años
+    players: 2-5
+    duration: 30 a 60 minutos
+    imageUrl: img/aventurerosaltren.jpg
   - link: https://amzn.to/3ewN6tT
     heading: Lama Party
     text: Otro de los nominados al Spiel Des Jahres 2022, este juego de cartas
@@ -60,19 +108,6 @@ games:
     duration: 20 minutos
     ages: A partir de 8
     imageUrl: img/llama.jpg
-  - heading: A Game of Cat and Mouth
-    text: A Game of Cat and Mouth en un juego para dos jugadores que es "como jugar
-      al ping pong", pero en una mesa normal. Los jugadores deben utilizar una
-      "pata de gato" magnética para lanzar una bola amarilla a través de la boca
-      del gato hacia el lado del tablero del oponente. Los jugadores ganan la
-      ronda cuando se deshacen de todas las bolas del tablero. Cada ronda dura
-      menos de un minuto, pero el nivel de emoción se dispara al intentar
-      deshacerse de las últimas bolas.
-    imageUrl: img/gameofcatandmouth.jpg
-    link: https://amzn.to/3eupKVw
-    ages: A partir de 7 años
-    players: "2"
-    duration: 10 minutos
   - heading: Cascadia
     text: Uno de los ganadores del Spiel Des Jahres de este año (el premio más
       importante del mundo del juego) es este juego de colocación de fichas con
@@ -132,39 +167,4 @@ games:
     players: 2-6
     duration: 20 minutos
     imageUrl: img/magicmountain.jpg
-  - heading: Carcassonne Junior
-    link: https://amzn.to/3MJyOTd
-    text: La versión para niños del popular juego de colocación de fichas
-      Carcassonne, Mi primer Carcassonne hace que los jugadores coloquen fichas
-      para construir una ciudad y crear una red de calles, casas y espacios
-      verdes. Es un juego sencillo, tipo rompecabezas, con una suave competición
-      y una satisfactoria sensación de crear un pueblo con otros jugadores.
-    ages: a partir de 4 años
-    players: 2-4
-    duration: 10 a 20 minutos
-    imageUrl: img/carcassonnejunior.jpg
-  - link: https://amzn.to/3s4hMFM
-    heading: Rhino Hero
-    text: Un juego de apilamiento de cartas que ofrece el reto del Jenga, los
-      jugadores de Rhino Hero utilizan las cartas para crear paredes y tejados
-      para un edificio compartido, todo ello mientras intentan no derribarlo.
-      Además, un rinoceronte superhéroe de madera se desplaza por el edificio de
-      una planta a otra. Todo el mundo se siente como en una película
-      compartida, cada jugador se turna para mover al héroe por el escenario,
-      hasta que alguien se descuida y destruye el edificio.
-    players: 2-5
-    duration: 5 a 15 minutos
-    ages: A partir de 5 años
-    imageUrl: img/rhinohero.jpg
-  - link: https://amzn.to/3TsUlBE
-    heading: ¡Aventureros al Tren! Europa
-    text: En Ticket to Ride, los jugadores conectan ciudades con vías de tren, e
-      impiden que otros hagan lo mismo. La magia de Ticket to Ride es que puedes
-      jugarlo de forma casual, centrándote solo en tus propias líneas de
-      ferrocarril, o de forma despiadada, en la que intentas sabotear a otros
-      jugadores en sus esfuerzos por conectar ciudades.
-    ages: A partir de 8 años
-    players: 2-5
-    duration: 30 a 60 minutos
-    imageUrl: img/aventurerosaltren.jpg
 ---
