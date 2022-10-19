@@ -25,7 +25,6 @@ Un juego completo de Twilight Struggle incluye lo siguiente:
 
 El mapa está dividido en seis regiones: Europa, Asia, América Central, América del Sur, África y Oriente Medio. Una región es un grupo de naciones conectadas geopolíticamente, normalmente en estrecha proximidad geográfica.
 
-
 ![Twilight Struggle Europa](img/tseurope.png "Twilight Struggle Europa")
 
 Europa se divide en dos subregiones, Europa Oriental y Europa Occidental. Dos países históricamente neutrales (Austria y Finlandia) están clasificados tanto en Europa Oriental como en Europa Occidental.
@@ -52,8 +51,7 @@ Los países están conectados entre sí a través de las líneas negras, rojas y
 
 > **Nota de diseño:** Ser adyacente no es totalmente un reflejo de la geografía. Varios países que comparten fronteras físicas no tienen conexiones en el juego. Esto no es un error del mapa, sino que forma parte de la mecánica del juego y de la situación política de la época.
 
-
-![](https://www.ultraboardgames.com/twilight-struggle/gfx/game6.jpg)
+![](img/tsinfluence.png)
 
 #### Países controlados
 
@@ -106,10 +104,7 @@ Coloca los marcadores de Carrera Espacial de EE.UU. y de la URSS a la izquierda 
 
 Coloca el marcador de Turno en el primer espacio del Registro de Turnos. Coloca el marcador de Defcon en la casilla 5 del Registro de DEFCON. Finalmente, coloca el marcador de PV en el Registro de Puntos de Victoria en el espacio cero.
 
-
-
 ![](img/tscover.png)
-
 
 ## Juego
 
@@ -163,7 +158,6 @@ La carta con el Valor del Titular más alto tiene efecto primero. En caso de emp
 * A menos que el evento de cabecera se refiera específicamente a la disponibilidad de puntos de operaciones, ningún jugador recibe puntos de operaciones de las cartas jugadas durante la fase de cabecera.
 
 > **Nota:** Si juegas un evento del oponente durante la fase de titulares, tu oponente ejecuta el texto del evento como si hubiera jugado la carta él mismo. Sin embargo, el jugador de la carta de titular se considerará el jugador en fase a efectos del estado de DEFCON.
-
 
 #### D. Rondas de acción
 
@@ -283,14 +277,13 @@ Cuesta un punto de Operaciones hacer una tirada de Realineación. Cada jugador t
 * +1 por cada país controlado adyacente,
 * +1 si tiene más Influencia en el país objetivo que su oponente,
 * +1 si su Superpotencia está adyacente al país objetivo.
-
 * * Ejemplo:* El jugador de EE.UU. tiene como objetivo a Corea del Norte para su Realineación. Hay 3 puntos de influencia de la URSS en Corea del Norte, mientras que el jugador estadounidense no tiene ninguno.
->
-> El jugador estadounidense no tiene modificadores, no controla ningún país adyacente y tiene menos influencia en Corea del Norte que los soviéticos.
->
-> El jugador de la URSS tiene +1 porque Corea del Norte está adyacente a la URSS y +1 por tener más Influencia en Corea del Norte que los EEUU. El jugador estadounidense tiene suerte y saca un 5 mientras que el jugador de la URSS saca un 2 que se modifica a 4.
->
-> El resultado es que el jugador de la URSS debe eliminar un punto de influencia de Corea del Norte.
+
+    > El jugador estadounidense no tiene modificadores, no controla ningún país adyacente y tiene menos influencia en Corea del Norte que los soviéticos.
+    >
+    > El jugador de la URSS tiene +1 porque Corea del Norte está adyacente a la URSS y +1 por tener más Influencia en Corea del Norte que los EEUU. El jugador estadounidense tiene suerte y saca un 5 mientras que el jugador de la URSS saca un 2 que se modifica a 4.
+    >
+    > El resultado es que el jugador de la URSS debe eliminar un punto de influencia de Corea del Norte.
 
 Nunca se añade influencia a un país como resultado de una tirada de realineación.
 
@@ -320,7 +313,7 @@ Las cartas que indican que un jugador puede hacer una "tirada de Golpe gratuita"
 
 ### La Carrera Espacial
 
-*"Vamos al espacio porque todo lo que la humanidad debe emprender, los hombres libres deben compartirlo plenamente... Creo que esta nación debe comprometerse a lograr el objetivo, antes de que termine la década, de hacer aterrizar a un hombre en la luna y devolverlo sano y salvo a la tierra". -John F. Kennedy
+\*"Vamos al espacio porque todo lo que la humanidad debe emprender, los hombres libres deben compartirlo plenamente... Creo que esta nación debe comprometerse a lograr el objetivo, antes de que termine la década, de hacer aterrizar a un hombre en la luna y devolverlo sano y salvo a la tierra". -John F. Kennedy
 
 La pista de la Carrera Espacial contiene un marcador para cada superpotencia. Una superpotencia puede gastar puntos de operaciones para intentar mover su marcador a la siguiente casilla del tablero.
 
@@ -342,7 +335,7 @@ Las habilidades especiales se conceden sólo al primer jugador que alcanza la ca
   Los efectos de estas habilidades especiales son inmediatos y acumulativos.
 
 *Ejemplo:* El jugador de la URSS alcanza con éxito el espacio 2. Puede jugar una segunda Carta de Carrera Espacial durante su siguiente Ronda de Acción.
->
+
 > Si el jugador de la URSS alcanzara el espacio 4 antes de que el jugador de EE.UU. hubiera alcanzado el espacio 2, el jugador de la URSS podría jugar dos cartas de Carrera Espacial por turno, y exigir al jugador de EE.UU. que mostrara su evento de la Fase de Cabecera antes de seleccionar el suyo.
 
 Independientemente del texto de la carta, un Evento descartado para hacer una tirada para avanzar en el registro de Carrera Espacial no se implementa.
@@ -361,7 +354,7 @@ Un jugador puede jugar una carta como Evento en lugar de Operaciones. Si el Even
 
 La carta de Puntuación del Sudeste Asiático tiene un asterisco tras el título del Evento, y es la única carta de puntuación que se elimina tras el juego.
 
-**Eventos Permanentes: Algunas cartas de Evento tienen un título subrayado, por ejemplo, Flower Power. Esto indica que los efectos de estos Eventos duran toda la partida. Cuando estas cartas se juegan como Eventos, colócalas a un lado del mapa, o coloca sus marcadores en el Indicador de Turno, como recordatorio de sus efectos en curso.
+\*\*Eventos Permanentes: Algunas cartas de Evento tienen un título subrayado, por ejemplo, Flower Power. Esto indica que los efectos de estos Eventos duran toda la partida. Cuando estas cartas se juegan como Eventos, colócalas a un lado del mapa, o coloca sus marcadores en el Indicador de Turno, como recordatorio de sus efectos en curso.
 
 Algunas cartas de evento modifican el valor de Operaciones de las cartas que les siguen. Estos modificadores deben aplicarse en conjunto, y pueden modificar "La Carta de China".
 
@@ -391,9 +384,9 @@ Estos Eventos pueden jugarse independientemente de la ausencia de puntos de infl
 
 ## Estado de Defcon y Operaciones Militares
 
-*"Juego extraño. La única jugada ganadora es no jugar". - "Joshua" el ordenador N.O.R.A.D de Wargames.
+\*"Juego extraño. La única jugada ganadora es no jugar". - "Joshua" el ordenador N.O.R.A.D de Wargames.
 
-### El estado del Defcon 
+### El estado del Defcon
 
 El estado DEFCON mide la tensión nuclear en el juego. El nivel de DEFCON comienza el juego en su nivel máximo de "paz" de 5. Puede bajar y volver a subir debido a eventos y acciones de los jugadores, pero si, en algún momento, disminuye a 1, el juego termina inmediatamente.
 
@@ -425,7 +418,7 @@ En todos los casos, cuando las reglas o las cartas indican "mejorar" el estado d
 
 ### Operaciones Militares Requeridas
 
-*"¿Restricción? ¿Por qué te preocupa tanto salvar sus vidas? La idea es matar a los bastardos. Al final de la guerra, si quedan dos americanos y un ruso vivos, ganamos". -Gen. Thomas Power, Mando Aéreo Estratégico de EE.UU.
+\*"¿Restricción? ¿Por qué te preocupa tanto salvar sus vidas? La idea es matar a los bastardos. Al final de la guerra, si quedan dos americanos y un ruso vivos, ganamos". -Gen. Thomas Power, Mando Aéreo Estratégico de EE.UU.
 
 ![](img/tsrequiredoperations.png)
 
@@ -497,6 +490,7 @@ Los jugadores obtienen puntos adicionales durante la puntuación regional, como 
 
 +1 VP por cada país que controlen en la región puntuable que esté adyacente a la superpotencia enemiga.
 +1 punto de victoria por cada país conflictivos que controlen en la región puntuable.
+
 * Los puntos de victoria se acumulan para ambos jugadores, y la diferencia neta entre las dos puntuaciones se marca en el Registro de Puntos de Victoria.
 
 > *Ejemplo:* La URSS juega la carta de puntuación de América Central. La URSS controla Cuba, Haití y la República Dominicana. Estados Unidos controla Guatemala y tiene 1 punto de influencia en Panamá.
