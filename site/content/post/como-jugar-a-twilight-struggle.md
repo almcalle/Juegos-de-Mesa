@@ -6,7 +6,7 @@ description: Twilight Struggle es un juego bastante complejo pero muy
   2 jugadores. En este post te enseñamos cómo jugarlo.
 image: img/tscover.png
 ---
-## Components
+## Componentes
 
 ![Twilight Struggle board game](img/tsboard.jpg "Twilight Struggle board game")
 
