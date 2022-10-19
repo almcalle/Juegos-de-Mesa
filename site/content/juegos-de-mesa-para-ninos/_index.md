@@ -167,4 +167,16 @@ games:
     players: 2-6
     duration: 20 minutos
     imageUrl: img/magicmountain.jpg
+  - heading: The mind
+    text: "The Mind es un juego en el que todos los jugadores intentan descartar las
+      cartas numeradas de su mano en orden ascendente en una pila de descarte
+      compartida, pero no puedes hablar ni dar pistas sobre las cartas de tu
+      mano. Las cartas van del 1 al 100, y la estrategia consiste en jugar la
+      carta que creas que es la más baja de la ronda: si nadie tiene un número
+      más bajo que la carta que has jugado, ganas esa ronda."
+    link: https://amzn.to/3MI0eJ6
+    ages: A partir de 8
+    players: 2-4
+    duration: 20 minutos
+    imageUrl: img/themind.jpg
 ---
