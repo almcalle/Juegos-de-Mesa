@@ -91,4 +91,45 @@ games:
     ages: A partir de 8 años
     players: 2-5
     duration: 15 minutos
+  - link: https://amzn.to/3Tg0Vvy
+    heading: Dragonwood
+    ages: A partir de 8 años
+    players: 2-4
+    duration: 20 minutos
+    text: Este juego de mesa, consiste en coleccionar coloridas cartas de aventurero
+      y ganar dados para derrotar a diversos monstruos. Es un juego que
+      demuestra bastante bien a los niños algunos elementos clave del juego,
+      como la recolección de cartas, la asunción de riesgos, la elección entre
+      diferentes oportunidades y el aprendizaje de cuándo tentar la suerte. Los
+      niños interesados en la fantasía encontrarán mucho que disfrutar en
+      Dragonwood.
+    imageUrl: img/dragonwood.jpg
+  - link: https://amzn.to/3yRXuDr
+    heading: Magic Mountain
+    text: Otro ganador del Spiel des Jahres 2022, La Montaña Mágica es un divertido
+      juego de carreras cinéticas cooperativas para toda la familia, en el que
+      los jugadores intentan vencer dejando caer las canicas por un tablero
+      inclinado, algo así como el Plinko. El objetivo final es que las canicas
+      derriben a las brujas malvadas sin golpear a ninguno de los aldeanos
+      amigos.
+    ages: a partir de 5 años
+    players: 2-6
+    duration: 20 minutos
+    imageUrl: img/magicmountain.jpg
+  - text: >+
+      Es probable que reconozcas Minecraft: Builders & Biomes por el popular
+      juego de ordenador que lo inspiró. Se extraen recursos, se construyen
+      estructuras y se ganan puntos. Los jugadores también tienen la oportunidad
+      de luchar contra los monstruos tradicionales de Minecraft, como los
+      Creepers y los Endermen.
+
+
+      Una de las características más interesantes es el gran "cubo de recursos" que comparten todos los jugadores y que está compuesto por bloques de madera más pequeños que representan diversos recursos: los jugadores pueden "minar" el cubo y conseguir lo que necesitan para completar sus proyectos,
+
+    heading: "Minecraft: Builders & Biomes"
+    imageUrl: img/minecraft.jpg
+    link: https://amzn.to/3SdOsqQ
+    ages: A partir de 10 años
+    players: 2-4
+    duration: 30 a 60 minutos
 ---
