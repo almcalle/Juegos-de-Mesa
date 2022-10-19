@@ -60,9 +60,9 @@ games:
     duration: 10 a 20 minutos
     imageUrl: img/carcassonnejunior.jpg
   - heading: A Game of Cat and Mouth
-    text: A Game of Cat and Mouth en un juego para dos jugadores que es "como jugar
-      al ping pong", pero en una mesa normal. Los jugadores deben utilizar una
-      "pata de gato" magnética para lanzar una bola amarilla a través de la boca
+    text: A Game of Cat and Mouth en un juego para dos jugadores que es como jugar
+      al ping pong, pero en una mesa normal. Los jugadores deben utilizar una
+      pata de gato magnética para lanzar una bola amarilla a través de la boca
       del gato hacia el lado del tablero del oponente. Los jugadores ganan la
       ronda cuando se deshacen de todas las bolas del tablero. Cada ronda dura
       menos de un minuto, pero el nivel de emoción se dispara al intentar
