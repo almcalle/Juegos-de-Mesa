@@ -73,15 +73,13 @@ games:
     players: "2"
     duration: 10 minutos
   - link: https://amzn.to/3yTr9ff
-    text: 'En este juego de mesa, los jugadores trabajan juntos para defender su
-      escuela de hordas de zombis, según Barnes. Dijo que es un gran juego para
-      "mostrar a los niños el valor de escuchar a los demás y evaluar las
-      situaciones para determinar los mejores resultados para todos". También es
-      un juego "heredado", lo que significa que puedes desbloquear personajes y
-      otros contenidos para futuras partidas cada vez que juegues. Disponible en
-      versiones para niños y adolescentes, Zombie Kidz: Evolution está muy bien
-      valorado, con una puntuación media de 4,8 estrellas en más de 500
-      opiniones en Amazon.'
+    text: En este juego de mesa, los jugadores trabajan juntos para defender su
+      escuela de hordas de zombis. Es un gran juego para "mostrar a los niños el
+      valor de escuchar a los demás y evaluar las situaciones para determinar
+      los mejores resultados para todos". También es un juego con progreso, lo
+      que significa que puedes desbloquear personajes y otros contenidos para
+      futuras partidas cada vez que juegues. Disponible en versiones para niños
+      y adolescentes.
     heading: Zombie Kidz Evolution
     imageUrl: img/zombiekidz.jpg
     ages: A partir de 7
