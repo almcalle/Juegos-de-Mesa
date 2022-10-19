@@ -179,4 +179,15 @@ games:
     players: 2-4
     duration: 20 minutos
     imageUrl: img/themind.jpg
+  - heading: Yeti en mi Espagueti
+    link: https://amzn.to/3yQZAmY
+    text: 'Yeti in My Spaghetti tiene mucho de lo que puede captar la atención de un
+      niño pequeño: una premisa divertida, reglas fáciles de seguir y comida de
+      mentira. En el juego los jugadores deben mover los "fideos de pasta" sin
+      que el yeti caiga en el bol. Puede mantener a los niños ocupados sin que
+      les lleve demasiado tiempo: podrán jugar varias rondas en una hora.'
+    imageUrl: img/yetiinmyspaguetti.jpg
+    ages: A partir de 4 años
+    players: Más de 2
+    duration: 15 minutos
 ---
