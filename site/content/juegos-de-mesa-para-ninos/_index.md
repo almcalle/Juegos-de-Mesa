@@ -143,4 +143,28 @@ games:
     players: 2-4
     duration: 10 a 20 minutos
     imageUrl: img/carcassonnejunior.jpg
+  - link: https://amzn.to/3s4hMFM
+    heading: Rhino Hero
+    text: Un juego de apilamiento de cartas que ofrece el reto del Jenga, los
+      jugadores de Rhino Hero utilizan las cartas para crear paredes y tejados
+      para un edificio compartido, todo ello mientras intentan no derribarlo.
+      Además, un rinoceronte superhéroe de madera se desplaza por el edificio de
+      una planta a otra. Todo el mundo se siente como en una película
+      compartida, cada jugador se turna para mover al héroe por el escenario,
+      hasta que alguien se descuida y destruye el edificio.
+    players: 2-5
+    duration: 5 a 15 minutos
+    ages: A partir de 5 años
+    imageUrl: img/rhinohero.jpg
+  - link: https://amzn.to/3TsUlBE
+    heading: ¡Aventureros al Tren! Europa
+    text: En Ticket to Ride, los jugadores conectan ciudades con vías de tren, e
+      impiden que otros hagan lo mismo. La magia de Ticket to Ride es que puedes
+      jugarlo de forma casual, centrándote solo en tus propias líneas de
+      ferrocarril, o de forma despiadada, en la que intentas sabotear a otros
+      jugadores en sus esfuerzos por conectar ciudades.
+    ages: A partir de 8 años
+    players: 2-5
+    duration: 30 a 60 minutos
+    imageUrl: img/aventurerosaltren.jpg
 ---
