@@ -384,7 +384,7 @@ Estos Eventos pueden jugarse independientemente de la ausencia de puntos de infl
 
 ## Estado de Defcon y Operaciones Militares
 
-\*"Juego extraño. La única jugada ganadora es no jugar". - "Joshua" el ordenador N.O.R.A.D de Wargames.
+*"Juego extraño. La única jugada ganadora es no jugar". - "Joshua" el ordenador N.O.R.A.D de Wargames.*
 
 ### El estado del Defcon
 
@@ -418,7 +418,7 @@ En todos los casos, cuando las reglas o las cartas indican "mejorar" el estado d
 
 ### Operaciones Militares Requeridas
 
-\*"¿Restricción? ¿Por qué te preocupa tanto salvar sus vidas? La idea es matar a los bastardos. Al final de la guerra, si quedan dos americanos y un ruso vivos, ganamos". -Gen. Thomas Power, Mando Aéreo Estratégico de EE.UU.
+*"¿Restricción? ¿Por qué te preocupa tanto salvar sus vidas? La idea es matar a los bastardos. Al final de la guerra, si quedan dos americanos y un ruso vivos, ganamos". -Gen. Thomas Power, Mando Aéreo Estratégico de EE.UU.*
 
 ![](img/tsrequiredoperations.png)
 
