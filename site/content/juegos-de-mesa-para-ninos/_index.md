@@ -8,17 +8,19 @@ description: Un buen juego de mesa puede ser una forma divertida de reunir a la
   fomentando la estrategia, el trabajo en equipo y la interacción entre miembros
   de la familia.
 games:
-  - heading: "¿Alcachofas? ¡No, gracias!? "
-    text: Ganador de los American Tabletop Awards (ATTA) en 2021, este juego de
-      cartas de cartas, imagina un mundo en el que la gente de repente odia las
-      alcachofas, y tu jardín (o sea, tu mano de cartas) está lleno de ellas. Tu
-      objetivo es intercambiar tu mazo, exclusivamente lleno de alcachofas, y
-      cosechar verduras frescas.
-    imageUrl: img/alcachofas.jpg
-    link: https://amzn.to/3rZ5iPW
-    ages: A partir de 10 años
+  - link: https://amzn.to/3yTr9ff
+    text: En este juego de mesa, los jugadores trabajan juntos para defender su
+      escuela de hordas de zombis. Es un gran juego para "mostrar a los niños el
+      valor de escuchar a los demás y evaluar las situaciones para determinar
+      los mejores resultados para todos". También es un juego con progreso, lo
+      que significa que puedes desbloquear personajes y otros contenidos para
+      futuras partidas cada vez que juegues. Disponible en versiones para niños
+      y adolescentes.
+    heading: Zombie Kidz Evolution
+    imageUrl: img/zombiekidz.jpg
+    ages: A partir de 7
     players: 2-4
-    duration: "20 minutos "
+    duration: 5-15 minutos
   - link: https://amzn.to/3s4hMFM
     heading: Rhino Hero
     text: Un juego de apilamiento de cartas que ofrece el reto del Jenga, los
@@ -32,6 +34,18 @@ games:
     duration: 5 a 15 minutos
     ages: A partir de 5 años
     imageUrl: img/rhinohero.jpg
+  - link: https://amzn.to/3MBLhbi
+    imageUrl: img/disney.jpg
+    heading: Disney Villainous
+    text: 'Considerado por muchos el mejor juego de mesa de Disney publicado hasta
+      la fecha, ofrece a los jugadores la posibilidad de ser los malos de las
+      diferentes peliculas de Disney. Disney Villainous, plantea la pregunta:
+      "¿Qué pasaría si los populares villanos de Disney triunfaran de verdad?"
+      Cada jugador controla a uno de los seis villanos, con múltiples
+      expansiones que añaden personajes adicionales.'
+    players: 2-6
+    ages: A partir de 10 años
+    duration: "50 minutos "
   - text: >+
       Es probable que reconozcas Minecraft: Builders & Biomes por el popular
       juego de ordenador que lo inspiró. Se extraen recursos, se construyen
@@ -60,9 +74,9 @@ games:
     duration: 10 a 20 minutos
     imageUrl: img/carcassonnejunior.jpg
   - heading: A Game of Cat and Mouth
-    text: A Game of Cat and Mouth en un juego para dos jugadores que es como jugar
-      al ping pong, pero en una mesa normal. Los jugadores deben utilizar una
-      pata de gato magnética para lanzar una bola amarilla a través de la boca
+    text: A Game of Cat and Mouth en un juego para dos jugadores que es "como jugar
+      al ping pong", pero en una mesa normal. Los jugadores deben utilizar una
+      "pata de gato" magnética para lanzar una bola amarilla a través de la boca
       del gato hacia el lado del tablero del oponente. Los jugadores ganan la
       ronda cuando se deshacen de todas las bolas del tablero. Cada ronda dura
       menos de un minuto, pero el nivel de emoción se dispara al intentar
@@ -72,19 +86,17 @@ games:
     ages: A partir de 7 años
     players: "2"
     duration: 10 minutos
-  - link: https://amzn.to/3yTr9ff
-    text: En este juego de mesa, los jugadores trabajan juntos para defender su
-      escuela de hordas de zombis. Es un gran juego para "mostrar a los niños el
-      valor de escuchar a los demás y evaluar las situaciones para determinar
-      los mejores resultados para todos". También es un juego con progreso, lo
-      que significa que puedes desbloquear personajes y otros contenidos para
-      futuras partidas cada vez que juegues. Disponible en versiones para niños
-      y adolescentes.
-    heading: Zombie Kidz Evolution
-    imageUrl: img/zombiekidz.jpg
-    ages: A partir de 7
+  - heading: "¿Alcachofas? ¡No, gracias!? "
+    text: Ganador de los American Tabletop Awards (ATTA) en 2021, este juego de
+      cartas de cartas, imagina un mundo en el que la gente de repente odia las
+      alcachofas, y tu jardín (o sea, tu mano de cartas) está lleno de ellas. Tu
+      objetivo es intercambiar tu mazo, exclusivamente lleno de alcachofas, y
+      cosechar verduras frescas.
+    imageUrl: img/alcachofas.jpg
+    link: https://amzn.to/3rZ5iPW
+    ages: A partir de 10 años
     players: 2-4
-    duration: 5-15 minutos
+    duration: "20 minutos "
   - heading: Animal sobre animal
     imageUrl: img/animalsobreanimal.jpg
     text: >-
@@ -168,18 +180,6 @@ games:
     ages: A partir de 10 años
     players: 1-4
     duration: "30-40 minutos "
-  - link: https://amzn.to/3MBLhbi
-    imageUrl: img/disney.jpg
-    heading: Disney Villainous
-    text: 'Considerado por muchos el mejor juego de mesa de Disney publicado hasta
-      la fecha, ofrece a los jugadores la posibilidad de ser los malos de las
-      diferentes peliculas de Disney. Disney Villainous, plantea la pregunta:
-      "¿Qué pasaría si los populares villanos de Disney triunfaran de verdad?"
-      Cada jugador controla a uno de los seis villanos, con múltiples
-      expansiones que añaden personajes adicionales.'
-    players: 2-6
-    ages: A partir de 10 años
-    duration: "50 minutos "
   - heading: Draftosaurus
     text: Este juego de mesa para niños transforma a los jugadores en propietarios
       de parques temáticos al estilo de Parque Jurásico de forma sencilla y
