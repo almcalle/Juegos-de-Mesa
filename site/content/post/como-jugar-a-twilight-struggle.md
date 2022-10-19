@@ -42,9 +42,9 @@ Cada espacio en el mapa representa un país o bloque de países (en adelante lla
 
 ![](img/tscountryexplanation.png)
 
-#### Estados del Campo de Batalla
+#### Países conflictivos.
 
-Mientras que la mayoría de los estados tienen sus nombres en blanco, los países del Campo de Batalla funcionan de la misma manera que los espacios normales, pero tienen reglas especiales para la puntuación y los intentos de golpe. El nombre de su país está resaltado en púrpura para facilitar su reconocimiento.
+Mientras que la mayoría de los países tienen sus nombres en blanco, los países conflictivos funcionan de la misma manera que los países normales, pero tienen reglas especiales para la puntuación y los intentos de golpe de estado. El nombre de su país está resaltado en púrpura para facilitar su reconocimiento.
 
 Hay dos espacios en el mapa que representan las ubicaciones geográficas de los Estados Unidos y la Unión Soviética. Están fuera de juego para los Marcadores de Influencia, pero se consideran "países controlados adyacentes" a efectos de eventos y realineamientos.
 
@@ -96,7 +96,7 @@ El juego incluye varios marcadores para ayudar al juego:
 
 ## Configuración
 
-Baraja las cartas de la Primera Guerra y reparte 8 cartas a cada jugador. Además, coloca la "Carta de China" boca arriba frente al jugador de la URSS. Los jugadores pueden examinar sus cartas antes de desplegar sus marcadores de influencia iniciales.
+Baraja las cartas de la Guerra Inicial y reparte 8 cartas a cada jugador. Además, coloca la "Carta de China" boca arriba frente al jugador de la URSS. Los jugadores pueden examinar sus cartas antes de desplegar sus marcadores de influencia iniciales.
 
 El jugador de la URSS despliega primero. La URSS coloca un total de 15 marcadores de Influencia en los siguientes lugares: 1 en Siria, 1 en Irak, 3 en Corea del Norte, 3 en Alemania Oriental, 1 en Finlandia y 6 en cualquier lugar de Europa del Este.
 
@@ -110,13 +110,10 @@ Coloca el marcador de Turno en el primer espacio del Registro de Turnos. Coloca 
 
 ![](img/tscover.png)
 
-## Configuración
-
-Baraja las cartas de la Primera Guerra y reparte 8 cartas a cada jugador. Además, coloca la "Carta de China" boca arriba frente al jugador de la URSS. Los jugadores pueden examinar sus cartas antes de desplegar sus marcadores de influencia iniciales.
 
 ## Juego
 
-La Lucha del Crepúsculo tiene diez turnos. Cada turno representa entre tres y cinco años, y supondrá seis o siete jugadas de cartas normales por cada jugador.
+Twilight Struggle tiene diez turnos. Cada turno representa entre tres y cinco años, y supondrá seis o siete jugadas de cartas normales por cada jugador.
 
 Al principio de la partida, cada jugador recibe ocho cartas del mazo de Guerra Temprana. Al principio del turno 4, el mazo de Guerra Media se baraja en la pila de robo y el tamaño de la mano de los jugadores aumenta a nueve. Al principio del turno 8, el mazo de Guerra Tardía se baraja en la pila de robo.
 
@@ -132,7 +129,7 @@ Los descartes ignorados permanecen en la pila de descartes por ahora, pero se vo
 
 Un turno en Twilight Struggle tiene la siguiente estructura
 
-1. 1. Mejorar el estado de DEFCON
+1. Mejorar el estado de DEFCON
 2. Repartir cartas
 3. Fase de encabezamiento
 4. Rondas de acción
@@ -160,43 +157,14 @@ Para determinar qué Evento tiene lugar primero, mira el valor de Operaciones de
 
 La carta con el Valor del Titular más alto tiene efecto primero. En caso de empate, el Evento Titular jugado por el jugador estadounidense entra en vigor primero.
 
-* Se pueden jugar cartas de puntuación durante la Fase de Titularidad. Sin embargo, se considera que tienen un Valor de Titularidad de cero (0) y siempre tienen efecto en segundo lugar. Si ambos jugadores seleccionan una carta de puntuación como sus Cartas de Titularidad, la carta de puntuación del jugador de EE.UU. entra en vigor primero.
-* Los jugadores deben crear un evento de Titularidad, independientemente de si el evento les ayuda a ellos o a su oponente.
+* Se pueden jugar cartas de puntuación durante la Fase de Cabecera. Sin embargo, se considera que tienen un Valor de Cabecera de cero (0) y siempre tienen efecto en segundo lugar. Si ambos jugadores seleccionan una carta de puntuación como sus Cartas de Cabecera, la carta de puntuación del jugador de EE.UU. entra en vigor primero.
+* Los jugadores deben jugar un evento de Cabecera, independientemente de si el evento les ayuda a ellos o a su oponente.
 * La Carta de China no puede ser jugada durante la Fase de Titular.
 * A menos que el evento de cabecera se refiera específicamente a la disponibilidad de puntos de operaciones, ningún jugador recibe puntos de operaciones de las cartas jugadas durante la fase de cabecera.
 
 > **Nota:** Si juegas un evento del oponente durante la fase de titulares, tu oponente ejecuta el texto del evento como si hubiera jugado la carta él mismo. Sin embargo, el jugador de la carta de titular se considerará el jugador en fase a efectos del estado de DEFCON.
 
-## Configuración
 
-Baraja las cartas de la Primera Guerra y reparte 8 cartas a cada jugador. Además, coloca la "Carta de China" boca arriba frente al jugador de la URSS. Los jugadores pueden examinar sus cartas antes de desplegar sus marcadores de influencia iniciales.
-
-## Juego
-
-La Lucha del Crepúsculo tiene diez turnos. Cada turno representa entre tres y cinco años, y supondrá seis o siete jugadas de cartas normales por cada jugador.
-
-Al principio de la partida, cada jugador recibe ocho cartas del mazo de Guerra Temprana. Al principio del turno 4, el mazo de Guerra Media se baraja en la pila de robo y el tamaño de la mano de los jugadores aumenta a nueve. Al principio del turno 8, el mazo de Guerra Tardía se baraja en la pila de robo.
-
-El jugador en fase es el jugador cuya ronda de acción se está jugando en ese momento.
-
-Cuando no queden cartas en el mazo de robo, baraja todos los descartes para formar un nuevo mazo de robo. Ten en cuenta que las cartas jugadas como Eventos con un asterisco (*) se eliminan del juego cuando se juegan, y no se barajan en el nuevo mazo de robo.
-
-Reparte todas las cartas que queden en el mazo de robo antes de volver a barajar, excepto en los turnos 4 y 8.
-
-Cuando se pasa del mazo de Guerra Temprana a Guerra Media, o de Guerra Media a Guerra Tardía, no se añaden los descartes al mazo, sino que se añaden las cartas de Guerra Media o Guerra Tardía (según corresponda) al mazo existente y se vuelve a barajar.
-
-Los descartes ignorados permanecen en la pila de descartes por ahora, pero se volverán a barajar en el mazo en la siguiente barajada.
-
-Un turno en Twilight Struggle tiene la siguiente estructura
-
-1. 1. Mejorar el estado de DEFCON
-2. Repartir cartas
-3. Fase de encabezamiento
-4. Rondas de acción
-5. Comprobar el estado de las operaciones militares
-6. Revelar la carta de posesión (sólo en el torneo)
-7. Voltear "La Carta de China
-8. Avanzar el marcador de turno
 #### D. Rondas de acción
 
 Hay seis Rondas de Acción en los turnos 1 a 3 y siete rondas de acción en los turnos 4 a 10. Los jugadores se alternan jugando cartas, una por Ronda de Acción, para un total de seis cartas durante los turnos 1 a 3, y siete cartas durante los turnos 4 a 10.
@@ -232,7 +200,9 @@ Al final del turno 10, realiza la puntuación final como se describe en las regl
 
 Las cartas pueden jugarse de dos maneras: como Eventos u Operaciones. Normalmente, los jugadores tendrán una carta en su mano al final del turno. Todas las demás cartas se utilizarán para eventos u operaciones.
 
-Los jugadores no pueden renunciar a su turno rechazando jugar una carta, o descartando una carta de su mano. Eventos Asociados con el Oponente: Si un jugador juega una carta como Operación, y el Evento de la carta está asociado sólo con su oponente, el Evento sigue ocurriendo (y la carta, si tiene un asterisco después del título del Evento, se elimina).
+Los jugadores no pueden renunciar a su turno rechazando jugar una carta, o descartando una carta de su mano. 
+
+Eventos Asociados con el Oponente: Si un jugador juega una carta como Operación, y el Evento de la carta está asociado sólo con su oponente, el Evento sigue ocurriendo (y la carta, si tiene un asterisco después del título del Evento, se elimina).
 
 > **Nota:** Cuando se juega una carta para operaciones y ésta desencadena el evento de su oponente, su oponente implementa el texto del evento como si hubiera jugado la carta él mismo.
 
@@ -248,7 +218,7 @@ Los jugadores no pueden renunciar a su turno rechazando jugar una carta, o desca
 >
 > Ejemplo 2: El jugador de EE.UU. juega "Guerra Árabe-Israelí" para 2 operaciones. Sin embargo, durante su anterior Ronda de Acción jugó los "Acuerdos de Camp David" que prohíben jugar la "Guerra Árabe-Israelí" como Evento. El jugador de EE.UU. aún realizaría 2 Operaciones, pero el jugador de la URSS no obtendría el beneficio del Evento, y la carta no sería eliminada del juego.
 >
-> Ejemplo 3: El jugador de la URSS juega la "Alianza para el Progreso"; sin embargo, el jugador de EE.UU. no controla ningún país del Campo de Batalla ni en América del Sur ni en América Central. No obstante, el Evento se considera jugado, y la carta sería eliminada del juego después de la ronda del jugador de la URSS.
+> Ejemplo 3: El jugador de la URSS juega la "Alianza para el Progreso"; sin embargo, el jugador de EE.UU. no controla ningún país conflictivos ni en América del Sur ni en América Central. No obstante, el Evento se considera jugado, y la carta sería eliminada del juego después de la ronda del jugador de la URSS.
 >
 > *Ejemplo 4:* El jugador de la URSS juega "Guerra de las Galaxias", pero el jugador de EE.UU. está por delante en el registro de la Carrera Espacial. El resultado es que no tiene efecto y la carta "Star Wars" se devuelve a la pila de descartes.
 
@@ -344,9 +314,9 @@ Mueve el marcador en el registro de Operaciones Militares hacia arriba el númer
 >
 > Este es el número de marcadores de influencia que puede quitar/añadir a México. En primer lugar, EE.UU. retiraría los 2 marcadores de Influencia soviéticos, y luego colocaría 1 marcador de Influencia estadounidense.
 
-Cualquier intento de Golpe de Estado en un país del Campo de Batalla degrada el estado de DEFCON un nivel (hacia la Guerra Nuclear).
+Cualquier intento de Golpe de Estado en un país conflictivos degrada el estado de DEFCON un nivel (hacia la Guerra Nuclear).
 
-Las cartas que indican que un jugador puede hacer una "tirada de Golpe gratuita" en una región concreta pueden ignorar las restricciones geográficas del nivel de DEFCON actual. Sin embargo, una "tirada de Golpe de Estado gratuita" utilizada contra un país del Campo de Batalla seguiría bajando el DEFCON.
+Las cartas que indican que un jugador puede hacer una "tirada de Golpe gratuita" en una región concreta pueden ignorar las restricciones geográficas del nivel de DEFCON actual. Sin embargo, una "tirada de Golpe de Estado gratuita" utilizada contra un país conflictivos seguiría bajando el DEFCON.
 
 ### La Carrera Espacial
 
@@ -366,7 +336,7 @@ Las habilidades especiales se conceden sólo al primer jugador que alcanza la ca
 
 * Al llegar a la casilla 2 (Animal en el Espacio), el jugador puede jugar dos cartas de Carrera Espacial por turno (en lugar de la habitual).
 * Al llegar a la casilla 4 (Hombre en órbita terrestre), el jugador contrario debe seleccionar y revelar su evento principal antes de que el jugador con un "Hombre en órbita terrestre" haga su selección de evento principal.
-* Al llegar a la casilla 6 (El Águila/Oso ha Aterrizado), el jugador puede descartar su Carta Guardada al final del turno.
+* Al llegar a la casilla 6 (Alunizaje del Eagle/Bear), el jugador puede descartar su Carta Guardada al final del turno.
 * Al llegar a la casilla 8 (Estación Espacial), el jugador puede jugar ocho (8) Rondas de Acción por turno.
 
   Los efectos de estas habilidades especiales son inmediatos y acumulativos.
@@ -423,7 +393,7 @@ Estos Eventos pueden jugarse independientemente de la ausencia de puntos de infl
 
 *"Juego extraño. La única jugada ganadora es no jugar". - "Joshua" el ordenador N.O.R.A.D de Wargames.
 
-### The Defcon Track
+### El estado del Defcon 
 
 El estado DEFCON mide la tensión nuclear en el juego. El nivel de DEFCON comienza el juego en su nivel máximo de "paz" de 5. Puede bajar y volver a subir debido a eventos y acciones de los jugadores, pero si, en algún momento, disminuye a 1, el juego termina inmediatamente.
 
@@ -433,10 +403,10 @@ Si se alcanza el estado de DEFCON 1, estalla la guerra nuclear y el juego termin
 
 > *Ejemplo:* El jugador estadounidense juega los Juegos Olímpicos, y el estado DEFCON está en 2. El jugador de la URSS boicotea el juego. El estado de DEFCON se degrada al nivel 1, y se desencadena la guerra nuclear. El jugador estadounidense, como jugador en fase, ha perdido.
 
-Cualquier intento de Golpe de Estado en un país del Campo de Batalla degrada el estado de DEFCON un nivel. Las consecuencias de los niveles de estado de DEFCON están en el Registro de DEFCON, y se reproducen aquí:
+Cualquier intento de Golpe de Estado en un país conflictivos degrada el estado de DEFCON un nivel. Las consecuencias de los niveles de estado de DEFCON están en el Registro de DEFCON, y se reproducen aquí:
 
-* **Defcon 5:** Sin efecto
-* **Defcon 4:** No se permiten tiradas de Golpe de Estado ni de Realineación en Europa.
+**Defcon 5:** Sin efecto
+**Defcon 4:** No se permiten tiradas de Golpe de Estado ni de Realineación en Europa.
 **Defcon 3:** No se permiten tiradas de Golpe de Estado ni de Realización en Europa ni en Asia.
 **Defcon 2:** No se permiten tiradas de Golpe o Realización en Europa, Asia u Oriente Medio.
 **Defcon 1:** Se acabó el juego. El jugador responsable de que el estatus pase a 1 (el jugador en fase) pierde la partida.
@@ -517,16 +487,16 @@ Jugar una carta de puntuación hace que se obtengan Puntos de Victoria, en funci
 
 Los siguientes términos se utilizan durante la puntuación regional: Presencia: Una superpotencia tiene Presencia en una Región si controla al menos un país en esa Región.
 
-**Dominación:** Una superpotencia consigue la Dominación de una Región si controla más países en esa Región que su oponente, y controla más países del Campo de Batalla en esa Región que su oponente.
+**Dominación:** Una superpotencia consigue la Dominación de una Región si controla más países en esa Región que su oponente, y controla más países conflictivos en esa Región que su oponente.
 
 Una superpotencia debe controlar al menos un país que no sea campo de batalla y un país que sea campo de batalla en una región para conseguir la dominación de esa región.
 
-**Control: Una superpotencia tiene el control de una región si controla más países en esa región que su oponente, y controla todos los países del campo de batalla en esa región.
+**Control:**  Una superpotencia tiene el control de una región si controla más países en esa región que su oponente, y controla todos los países conflictivos en esa región.
 
 Los jugadores obtienen puntos adicionales durante la puntuación regional, como sigue:
 
 +1 VP por cada país que controlen en la región puntuable que esté adyacente a la superpotencia enemiga.
-+1 punto de victoria por cada país del campo de batalla que controlen en la región puntuable.
++1 punto de victoria por cada país conflictivos que controlen en la región puntuable.
 * Los puntos de victoria se acumulan para ambos jugadores, y la diferencia neta entre las dos puntuaciones se marca en el Registro de Puntos de Victoria.
 
 > *Ejemplo:* La URSS juega la carta de puntuación de América Central. La URSS controla Cuba, Haití y la República Dominicana. Estados Unidos controla Guatemala y tiene 1 punto de influencia en Panamá.
@@ -535,7 +505,7 @@ Los jugadores obtienen puntos adicionales durante la puntuación regional, como 
 >
 > Estados Unidos recibiría 1 VP por presencia en Centroamérica ya que controla Guatemala. Como Estados Unidos sólo tiene 1 punto de Influencia en Panamá, no lo controla, y por lo tanto no controla ningún país campo de batalla.
 >
-> Por eso el jugador de la URSS obtiene puntos de Dominio. Controla más países del campo de batalla (Cuba) y más países en general. También cumple la prueba de "al menos un país que no sea campo de batalla" mediante el control de Haití o la República Dominicana.
+> Por eso el jugador de la URSS obtiene puntos de Dominio. Controla más países conflictivos (Cuba) y más países en general. También cumple la prueba de "al menos un país que no sea campo de batalla" mediante el control de Haití o la República Dominicana.
 >
 > Habiendo calculado los puntos de victoria relativos, 5 PV para la URSS y 1 PV para los EE.UU., restas los PV de los EE.UU. a los soviéticos, y mueves el contador de puntos de PV 4 espacios netos hacia la victoria soviética.
 
